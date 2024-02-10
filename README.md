@@ -14,15 +14,22 @@ SchoolMockaroo is a mock database project aimed at simulating a school managemen
 
 ## Steps
 
-- Setup the Postgre on your machine and create a DB.
-- Add tables respective to ER diagrams
-- Add data to each table with minimum of 100 rows.
-- Write a Select query with and without conditions.
-- Write an insert query to add new data for all the tables
-- Write an Delete query to delete any existing data for all the tables.
-- Write an Update query to update any existing data for all the tables.
+### Step 1: Setup PostgreSQL and Create a Database
 
-## Acknowledgments
+First, install PostgreSQL. Im using Fedora system:
 
-- Mockaroo for providing an easy-to-use tool for generating mock data.
-- PostgreSQL for its powerful database management capabilities.
+```bash
+sudo dnf install postgresql-server postgresql-contrib
+```
+
+Initialize the database cluster:
+
+```bash
+sudo postgresql-setup --initdb
+```
+
+Start the PostgreSQL service:
+
+```bash
+sudo systemctl start postgresql
+```
