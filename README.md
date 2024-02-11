@@ -38,16 +38,47 @@ Create a use or use the default user 'postgres'
 
 ```bash
 CREATE ROLE username WITH LOGIN PASSWORD 'password';
+
+# Example
+CREATE ROLE liz WITH LOGIN PASSWORD 'password';
 ```
 
 Create a database
 
 ```bash
 sudo -u postgres createdb database_name
+
+# Example
+sudo -u postgres createdb schooldb
 ```
 
 Now, Login to the Postgres Terminal
 
 ```bash
 sudo -u postgres psql
+```
+
+### Step 2: Create Tables in the Database
+
+Refering the ER Diagram, create tables in the database created.
+
+To view the database
+
+```bash
+\l
+```
+
+To view the users
+
+```bash
+\du
+```
+
+To switch to the database
+
+```bash
+sudo -u postgres psql -d your_database_name
+
+# Example
+sudo -u postgres psql -d schooldb
 ```
