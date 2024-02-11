@@ -33,3 +33,21 @@ Start the PostgreSQL service:
 ```bash
 sudo systemctl start postgresql
 ```
+
+Create a use or use the default user 'postgres'
+
+```bash
+CREATE ROLE username WITH LOGIN PASSWORD 'password';
+```
+
+Create a database
+
+```bash
+sudo -u postgres createdb database_name
+```
+
+Now, Login to the Postgres Terminal
+
+```bash
+sudo -u postgres psql
+```
