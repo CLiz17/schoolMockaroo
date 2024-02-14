@@ -52,15 +52,13 @@ sudo -u postgres createdb database_name
 sudo -u postgres createdb schooldb
 ```
 
+### Step 2: Login to Postgres Terminal
+
 Now, Login to the Postgres Terminal
 
 ```bash
 sudo -u postgres psql
 ```
-
-### Step 2: Create Tables in the Database
-
-Refering the ER Diagram, create tables in the database created.
 
 To view the database
 
@@ -82,3 +80,7 @@ sudo -u postgres psql -d your_database_name
 # Example
 sudo -u postgres psql -d schooldb
 ```
+
+### Step 3: Create Tables in the Database
+
+Refering the ER Diagram, create tables in the database created.
