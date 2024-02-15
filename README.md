@@ -99,7 +99,7 @@ CREATE TABLE school (
     name VARCHAR(50),
     addr_city VARCHAR(50),
     addr_state VARCHAR(50),
-    addr_pin VARCHAR(50)
+    addr_pin VARCHAR(10)
 );
 
 CREATE TABLE faculty (
@@ -107,6 +107,6 @@ CREATE TABLE faculty (
     last_name VARCHAR(50),
     salary INTEGER,
     subject VARCHAR(50),
-    phone_no INTEGER
+    phone_no VARCHAR(15)
 );
 ```
