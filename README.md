@@ -84,3 +84,29 @@ sudo -u postgres psql -d schooldb
 ### Step 3: Create Tables in the Database
 
 Refering the ER Diagram, create tables in the database created.
+
+```bash
+CREATE TABLE students (
+    id SERIAL PRIMARY KEY,
+    first_name VARCHAR(50),
+    last_name VARCHAR(50),
+    grade VARCHAR(50),
+    dob DATE,
+    age INTEGER
+);
+
+CREATE TABLE school (
+    name VARCHAR(50),
+    addr_city VARCHAR(50),
+    addr_state VARCHAR(50),
+    addr_pin VARCHAR(50)
+);
+
+CREATE TABLE faculty (
+    first_name VARCHAR(50),
+    last_name VARCHAR(50),
+    salary INTEGER,
+    subject VARCHAR(50),
+    phone_no INTEGER
+);
+```
