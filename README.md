@@ -11,3 +11,8 @@ SchoolMockaroo is a mock database project aimed at simulating a school managemen
 ## ER Diagram
 
 <img width="500" alt="ER diagram for School Management" src="https://github.com/CLiz17/schoolMockaroo/assets/68838221/18c16170-9018-4653-b7b3-1ebf49cc0e67">
+
+## Acknowledgments
+
+- Mockaroo for providing an easy-to-use tool for generating mock data.
+- PostgreSQL for its powerful database management capabilities.
