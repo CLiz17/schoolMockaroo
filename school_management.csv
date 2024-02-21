@@ -1,0 +1,1001 @@
+id,first name,last name,age,dob,grade,school name,address.city,address.state,address.pincode,faculty.first name,faculty.last name,faculty.subject,faculty.phone number,faculty.salary
+1,Erika,Kembry,13,4/24/2010,C,Vinder,Colorado Springs,Colorado,80935,Eudora,Edgington,Math,719-389-6847,$2662.14
+2,Cherie,Leidl,6,12/14/2012,F,Fiveclub,Springfield,Illinois,62723,Tudor,Aglione,Science,217-909-2965,$2188.65
+3,Conant,Faas,16,2/12/2018,B,Yodel,Cedar Rapids,Iowa,52405,Stevana,Usher,History,319-747-4908,$2583.09
+4,Hildagard,Wiggam,8,12/2/2006,E,Skynoodle,San Jose,California,95138,Linnell,Griffoen,Science,408-801-1131,$1812.05
+5,Owen,Krabbe,13,12/11/2013,C,Viva,Chicago,Illinois,60624,Haven,Gingold,History,312-487-4643,$1368.42
+6,Jerrilee,O'Spillane,8,7/10/2008,E,Skinte,Albuquerque,New Mexico,87190,Anallese,Flasby,Science,505-871-6317,$2135.26
+7,Yvette,Farnworth,8,4/8/2018,D,Twitterbeat,Richmond,Virginia,23293,Margy,Piercey,Math,804-277-4619,$2461.35
+8,Uriel,Topliss,13,4/29/2015,C,Tazz,Escondido,California,92030,Isobel,McIllrick,Math,760-989-2469,$1865.05
+9,Anastasia,Scannell,13,6/14/2016,F,Npath,Riverside,California,92519,Emelia,Kimble,English,951-970-2982,$4062.39
+10,Morley,Haye,16,6/29/2009,E,Twitterbridge,Lynchburg,Virginia,24503,Lorry,Greenall,History,434-473-5832,$3067.78
+11,Mattie,Atling,11,3/31/2016,D,Skilith,El Paso,Texas,79999,Janifer,Morch,English,915-467-0992,$2384.06
+12,Rosamond,Stancliffe,9,3/22/2015,C,Buzzster,Annapolis,Maryland,21405,Melly,Gornal,Science,301-130-1043,$3885.29
+13,Willabella,Sheber,7,4/3/2011,C,Brightbean,Colorado Springs,Colorado,80920,Amabelle,Arnao,Science,719-895-4905,$2639.02
+14,Benny,Templeman,16,2/2/2010,F,Youopia,Winston Salem,North Carolina,27110,Desirae,Bostick,English,336-108-9162,$3769.57
+15,Addison,Lockie,7,3/9/2006,E,Thoughtsphere,Norfolk,Virginia,23509,Slade,Fishleigh,Art,757-716-6270,$3115.10
+16,Winnah,Sweetsur,9,1/20/2015,F,Meetz,Boise,Idaho,83757,Malanie,Kilby,English,208-381-4170,$3179.51
+17,Maurizia,Beat,13,7/19/2010,C,Twitterlist,Tucson,Arizona,85748,Kris,Landy,English,520-540-7185,$1806.82
+18,Thedrick,Diehn,12,12/14/2016,E,Devcast,Erie,Pennsylvania,16550,Ximenes,Vreiberg,Math,814-947-0038,$1076.89
+19,Art,Vakhrushev,8,5/19/2014,B,Innotype,Alexandria,Louisiana,71307,Kendre,Purves,Math,318-453-6417,$3631.01
+20,Kaja,Yabsley,10,10/21/2010,B,Vinder,Memphis,Tennessee,38143,Artemas,Garfath,History,901-639-0562,$1440.43
+21,Shanta,Sale,16,8/6/2006,F,Mudo,Jacksonville,Florida,32209,Briant,Vanacci,English,904-664-1110,$2355.23
+22,Irvin,Brandin,18,4/16/2011,B,Mudo,Rochester,New York,14639,Brigid,Fattore,Math,585-250-3698,$1592.04
+23,Natala,Kenvin,15,9/24/2006,A,Ntags,Sioux Falls,South Dakota,57193,Ania,Cursey,Science,605-380-1770,$4485.16
+24,Engracia,Stansby,14,2/7/2016,E,Yamia,Monticello,Minnesota,55590,Friederike,Shinfield,Science,763-863-7256,$1577.35
+25,Tyrus,Pococke,17,1/12/2016,D,Katz,Fresno,California,93721,Danella,Cominotti,History,559-303-8828,$4560.71
+26,Sander,Minithorpe,9,9/22/2007,B,Zoomcast,Henderson,Nevada,89074,Easter,Denning,History,702-415-0916,$2910.95
+27,Guglielma,Demead,17,9/16/2007,F,Yakitri,El Paso,Texas,79989,Coretta,Voss,Science,915-240-3643,$3176.95
+28,Ganny,Grishechkin,9,5/19/2016,C,Zazio,Sacramento,California,94286,Maria,Kembry,Science,916-936-4443,$2762.81
+29,Yolane,Povlsen,17,2/7/2016,A,Skyndu,Boulder,Colorado,80305,Sapphira,Lindsay,Science,720-612-7309,$3656.00
+30,Nelli,Lindman,18,5/8/2014,D,Wordpedia,Lancaster,Pennsylvania,17605,Claire,Laverick,English,717-275-4258,$4448.66
+31,Caria,Trimmell,10,5/3/2009,E,Teklist,Winter Haven,Florida,33884,Quintilla,McQuaide,English,407-199-0621,$4683.86
+32,Waldemar,Woolforde,6,12/19/2017,D,Topicshots,Anchorage,Alaska,99512,Joellen,Bettleson,Art,907-413-8277,$2083.70
+33,Leeland,Grigolli,16,12/28/2009,B,Brainverse,Hampton,Virginia,23663,Mirabella,MacCosto,Art,804-619-7741,$4718.29
+34,Chandler,Edmondson,13,12/22/2010,D,Kwideo,Lees Summit,Missouri,64082,Bliss,Simoneau,Art,816-550-3635,$4535.21
+35,Nomi,Higgonet,6,6/20/2014,C,Meembee,Tallahassee,Florida,32399,Patricia,Calan,Art,850-233-4732,$1900.19
+36,Lelah,Corps,18,9/24/2016,F,Dabfeed,Santa Monica,California,90405,Neall,Lifton,History,818-140-7424,$2815.89
+37,Laurene,Scryne,13,1/12/2018,A,Twitterbridge,Maple Plain,Minnesota,55579,Helen,Oak,Science,952-703-4234,$2278.42
+38,Camel,Cordobes,6,9/8/2008,F,Snaptags,Salt Lake City,Utah,84130,Evaleen,Goulding,History,801-231-2386,$1051.66
+39,Jeni,Adamowicz,8,3/3/2009,A,Edgepulse,Austin,Texas,78744,Kalie,Naptin,Science,512-194-1566,$1809.34
+40,Silva,Brandt,18,3/11/2008,F,Youbridge,Denver,Colorado,80291,Leeanne,Budnk,English,303-664-1243,$1796.50
+41,Melisande,Dwelly,15,2/10/2006,D,Nlounge,Wichita Falls,Texas,76305,Kaitlynn,Brasted,History,940-544-2000,$1310.05
+42,Ilysa,Nolot,8,9/20/2017,E,Shufflester,Irving,Texas,75062,Ingmar,McEvilly,Math,817-529-7564,$1482.86
+43,Janean,Giacubo,9,12/24/2017,C,Skalith,Lafayette,Indiana,47905,Elias,Bondley,History,765-765-9138,$1954.60
+44,Valerie,Sodo,8,9/22/2009,E,Youspan,Saint Louis,Missouri,63180,Dalston,Ashness,History,314-276-7994,$1520.50
+45,Immanuel,Vida,8,4/27/2017,A,Ntag,Philadelphia,Pennsylvania,19115,Karil,Sivil,Math,215-962-3937,$4684.29
+46,Xymenes,Toseland,6,11/10/2011,C,Skiptube,Charleston,West Virginia,25362,Dru,Gamlin,Science,304-400-0544,$2730.12
+47,Kristo,Evershed,9,9/25/2017,E,Meedoo,Chandler,Arizona,85246,Guglielma,Joanic,Science,602-628-7224,$3860.27
+48,Bailey,Tilio,15,1/5/2015,E,LiveZ,Washington,District of Columbia,20268,Maiga,Hegg,Art,202-652-0353,$1961.54
+49,Packston,Barenski,12,4/19/2016,D,Flipopia,San Jose,California,95155,Marys,Killock,Art,408-266-6657,$4008.65
+50,Deane,Kopje,13,9/2/2013,C,Realcube,Washington,District of Columbia,20299,Glenn,Snawden,Science,202-355-6905,$2336.26
+51,Obie,Minster,10,8/17/2006,B,Zava,Midland,Michigan,48670,Maitilde,Abbet,History,989-305-6922,$2725.52
+52,Shurlock,Sharp,8,6/4/2014,D,Eare,Tulsa,Oklahoma,74156,Maia,Tame,Science,918-105-3778,$1333.38
+53,Franchot,Scirman,14,6/7/2009,B,Eire,Kalamazoo,Michigan,49006,Bonni,Ness,History,269-910-8103,$1771.75
+54,Rolf,Plinck,8,1/13/2008,E,Avavee,Providence,Rhode Island,2912,Caralie,Tripet,Math,401-328-2979,$2940.06
+55,Aron,McCrow,10,2/8/2017,B,Photojam,Riverside,California,92513,Jarrod,Peepall,Art,951-718-8809,$3162.96
+56,Kellie,Dunmore,10,3/5/2010,E,Zava,Atlanta,Georgia,31190,Merralee,Kimmings,Math,404-964-6839,$3973.87
+57,Dyanna,Messam,6,2/14/2018,E,Meejo,Toledo,Ohio,43656,John,Pollok,History,419-416-9010,$1346.74
+58,Cameron,Olivi,15,5/4/2013,B,Lazz,Salt Lake City,Utah,84120,Kylynn,Ankers,Math,801-981-3873,$4006.59
+59,Fawne,Redwing,16,3/4/2013,B,Vipe,Fresno,California,93762,Killian,Witcomb,Math,559-700-4665,$1421.56
+60,Wyn,Gebhardt,9,7/22/2017,D,Quimba,San Antonio,Texas,78250,Tiertza,Eadmead,English,210-672-5375,$3657.70
+61,Reyna,Daffey,9,1/13/2015,A,Shufflebeat,Shreveport,Louisiana,71166,Franciskus,Foli,Math,318-180-0994,$2064.61
+62,Cortie,Spickett,6,12/11/2008,F,Buzzbean,Albany,New York,12222,Nissie,Ouldred,History,518-815-1663,$2757.77
+63,Liam,Bellany,12,3/8/2016,D,Skibox,Houston,Texas,77020,Timmie,Ceely,History,281-825-2341,$3486.29
+64,Rhea,Dudden,18,12/13/2015,F,Izio,Saint Louis,Missouri,63110,Essie,Pawson,History,314-916-9921,$3218.79
+65,Norrie,Mulvany,12,2/15/2011,B,Centimia,Memphis,Tennessee,38188,Lemmie,Courtonne,Science,901-592-6745,$4418.44
+66,Sully,Cuskery,6,3/4/2012,A,Omba,Hartford,Connecticut,6145,Elmer,Stollenwerck,Math,860-176-3412,$2866.03
+67,Gerrie,Kinvig,18,2/16/2006,E,Devcast,Spokane,Washington,99210,Margie,Stovold,Math,509-779-4118,$1364.64
+68,Bailey,Bilton,17,3/27/2013,B,Gabspot,South Lake Tahoe,California,96154,Humberto,Takos,Art,530-654-4481,$3144.48
+69,Olympe,Hubble,18,9/5/2010,C,Skinder,Oklahoma City,Oklahoma,73147,Vince,Leap,English,405-670-1320,$4595.94
+70,Maegan,Bartalot,9,2/7/2014,A,Shuffletag,Murfreesboro,Tennessee,37131,Blair,Haibel,English,615-659-6124,$4896.58
+71,Kerr,Wantling,11,4/29/2014,E,Myworks,Albuquerque,New Mexico,87195,Gaile,Snodin,Math,505-421-5878,$2793.92
+72,Thaddeus,Toolin,18,6/29/2018,F,Vipe,Fort Lauderdale,Florida,33325,Fonsie,Bodman,Math,954-417-0145,$2673.18
+73,Neel,Sommerling,16,6/11/2014,A,Trilith,Virginia Beach,Virginia,23459,Tove,McDonough,English,757-437-8514,$1245.28
+74,Barnaby,Olennikov,17,5/7/2008,D,Buzzster,Naperville,Illinois,60567,Theresina,Beveredge,English,630-747-5332,$3021.12
+75,Wright,Gallety,8,8/24/2011,D,Wikizz,El Paso,Texas,88525,Tabatha,Reinger,Science,915-160-9680,$3952.86
+76,Kimberli,Deverille,17,4/2/2017,B,Fadeo,Lansing,Michigan,48919,Sanson,Cranny,Math,517-914-7940,$4527.72
+77,Sisile,Lamminam,18,8/18/2013,B,Quatz,New Hyde Park,New York,11044,Sammie,Drake,History,516-606-4603,$2971.79
+78,Timi,Pavolini,13,10/7/2016,B,Mydo,Erie,Pennsylvania,16505,Tybie,Meah,English,814-514-7780,$3460.64
+79,Anneliese,Hawkslee,10,7/30/2013,A,Dabjam,Columbus,Mississippi,39705,Dawn,Sturrock,Science,662-162-0731,$4557.56
+80,Jemmie,Scripture,11,7/6/2011,A,Meejo,Baltimore,Maryland,21282,Darlene,Maciejak,English,410-840-3321,$2704.32
+81,Mort,Nanni,17,5/21/2016,E,Voonyx,Washington,District of Columbia,20016,Traci,Tuther,Science,202-177-6060,$2086.00
+82,Claribel,Gisbourn,15,6/3/2017,C,Zooveo,Maple Plain,Minnesota,55579,Korrie,Hulburt,Science,952-240-4790,$4559.48
+83,Leeland,Satterthwaite,13,5/15/2010,E,Tazz,San Bernardino,California,92424,Sisely,Witty,Math,909-197-3923,$4632.52
+84,Duffie,Gaenor,18,2/14/2007,A,Oozz,Dallas,Texas,75265,Benjamin,Jirusek,Art,214-364-5092,$2253.33
+85,Lorens,Rosle,12,4/25/2011,C,Jabberstorm,El Paso,Texas,88553,Thia,Vedenichev,Math,915-256-1343,$1040.91
+86,Sile,Camilio,12,6/15/2010,D,Oloo,Waltham,Massachusetts,2453,Leroi,Drable,Science,774-255-9977,$3637.44
+87,Jeramie,Deverall,9,6/14/2016,F,Twimbo,Houston,Texas,77245,Traci,Chittleburgh,Science,713-799-0090,$3112.41
+88,Judye,Paddingdon,17,7/17/2016,E,Kanoodle,Denver,Colorado,80228,Obadiah,Blague,Art,303-404-2543,$1796.98
+89,Lotti,Mitchely,7,7/8/2015,B,Fliptune,San Jose,California,95194,Base,Winkell,Art,408-682-8050,$1693.20
+90,Tito,Coley,6,2/16/2018,F,Yakidoo,Tallahassee,Florida,32309,Robinet,Kearn,Art,850-855-0583,$4689.25
+91,Tito,Struss,6,6/25/2017,C,Vinte,Charleston,West Virginia,25326,Verine,Sugar,History,304-962-5305,$2172.15
+92,Shaw,Castree,15,11/16/2015,F,Trilia,Newport News,Virginia,23612,Cloe,Ambrosoni,Art,757-297-8282,$2770.10
+93,Aurora,Shill,12,7/10/2006,F,Ntags,Knoxville,Tennessee,37995,Frieda,Shulem,Science,865-827-9130,$1463.72
+94,Karena,Eskrick,12,4/7/2013,A,Eamia,Fort Worth,Texas,76134,Mikol,Lemin,English,817-583-2893,$4715.21
+95,Randee,Salterne,16,10/29/2012,E,Twitterlist,Birmingham,Alabama,35220,Estevan,Kisby,Art,205-562-1280,$2038.63
+96,Lisha,Youde,8,3/17/2016,E,Meeveo,Washington,District of Columbia,20546,Atalanta,Tomasz,Math,202-547-6661,$2582.97
+97,Barry,Oakden,9,4/11/2017,E,Fivechat,Cincinnati,Ohio,45228,Yoshi,Marciek,English,513-836-6559,$3355.21
+98,Gerhardt,Switland,6,7/25/2014,E,Feedbug,Indianapolis,Indiana,46239,Keefer,Cureton,Science,317-513-5464,$3246.67
+99,Lanette,Bradshaw,12,5/8/2014,B,Realcube,San Diego,California,92186,Rheta,Pagram,History,619-550-5456,$1993.38
+100,Theadora,Pettisall,6,9/4/2006,F,Topdrive,Flint,Michigan,48550,Durand,Shorland,Art,810-277-4943,$1083.00
+101,Glen,Wasbey,9,7/3/2009,E,Blognation,Indianapolis,Indiana,46278,Madelena,Hoovart,History,317-226-0889,$1122.67
+102,Krishnah,Penke,6,5/24/2015,E,Jamia,Pomona,California,91797,Terrijo,Pagden,History,909-328-3481,$4039.08
+103,Iver,Kolczynski,9,4/23/2014,B,JumpXS,North Little Rock,Arkansas,72199,Marcellus,Yacobsohn,Math,501-969-6484,$1055.99
+104,Katie,Mathevet,6,5/20/2017,F,Teklist,Phoenix,Arizona,85020,Luise,Hardison,Science,623-386-5692,$4651.83
+105,Janelle,Bolding,6,7/3/2006,B,Voolith,Saginaw,Michigan,48609,Cullan,Westnage,Science,989-307-5450,$2663.84
+106,Cami,Pidgin,17,6/26/2017,B,Fivebridge,Johnson City,Tennessee,37605,Richart,Denyukhin,History,423-304-3549,$2469.64
+107,Ellerey,Ankers,14,6/17/2011,E,Twinte,Salt Lake City,Utah,84120,Chelsey,Meneyer,English,801-421-9561,$3422.29
+108,Wilmar,Raoul,16,4/25/2016,B,Feednation,Sioux Falls,South Dakota,57105,Inglebert,Struis,History,605-766-4616,$1362.92
+109,Eddie,Duxfield,12,3/4/2013,B,Podcat,Shreveport,Louisiana,71115,Quinton,Moens,Art,318-542-4099,$1339.13
+110,Karlotte,Oattes,8,6/16/2013,F,Youspan,Oakland,California,94622,Cristie,Bescoby,Math,510-617-3814,$3892.16
+111,Matty,Beining,7,6/9/2007,D,Yadel,Minneapolis,Minnesota,55470,Grace,Scutching,English,612-611-9767,$1025.42
+112,Clovis,Scholar,14,10/7/2012,A,Zava,Phoenix,Arizona,85053,Frederik,Ranson,Science,602-854-1857,$2930.43
+113,Tyson,Lundon,16,9/13/2013,B,Janyx,San Diego,California,92165,Caryn,Renachowski,Art,619-466-4612,$4139.27
+114,Bernice,Dignan,17,10/31/2013,A,Ainyx,Hartford,Connecticut,6183,Fabien,Arrighi,English,860-911-1269,$1994.13
+115,Norton,Rieme,12,4/9/2018,D,Ntags,Washington,District of Columbia,20337,Bab,Eadmeads,Science,202-769-5853,$3164.93
+116,Gabriel,McKeowon,18,11/3/2008,F,Thoughtstorm,Sacramento,California,95838,Alain,Robelet,Art,916-372-9119,$2614.51
+117,Raddie,Flewett,11,6/12/2006,E,Skynoodle,Stamford,Connecticut,6912,Annabelle,Heeps,English,203-289-2464,$2842.58
+118,Alano,Velez,9,2/26/2013,B,Yakidoo,Moreno Valley,California,92555,Rube,Howship,Art,951-190-4972,$1851.30
+119,Gayleen,Stainsby,12,2/4/2006,B,Agivu,Houston,Texas,77276,Euphemia,Shrubshall,Art,713-734-0705,$1140.08
+120,Lynette,Darinton,7,7/1/2007,C,Browsetype,Carson City,Nevada,89706,Terese,Kidds,English,775-232-7147,$4669.29
+121,Selene,Thomasset,9,6/15/2009,F,Jabberbean,Tulsa,Oklahoma,74156,Bernarr,Dobson,Math,918-586-2512,$3198.00
+122,Timofei,Hanington,7,10/29/2006,E,Fivebridge,Milwaukee,Wisconsin,53277,Veronica,Spensley,English,414-860-8835,$1935.59
+123,Daffie,Merkle,13,6/22/2016,B,Photofeed,Miami Beach,Florida,33141,Briny,Whipple,English,305-143-5620,$3805.46
+124,Myra,Kezar,15,5/12/2009,D,Flipopia,New York City,New York,10125,Cari,Lloyd-Williams,English,212-887-0171,$1842.00
+125,Ellerey,Tockell,14,4/11/2006,F,Quinu,Jacksonville,Florida,32215,Nollie,Reims,History,904-458-7396,$4379.56
+126,Andrej,Hinrichs,12,12/23/2012,F,Topiczoom,Naples,Florida,33963,Muhammad,Pencost,Art,239-103-3041,$1436.02
+127,Claus,Castard,17,5/7/2009,E,Realmix,Seminole,Florida,34642,Adriano,Chumley,Art,941-735-9752,$3669.49
+128,Tedra,Semens,14,11/10/2010,E,Trilith,Salt Lake City,Utah,84170,Janenna,Gurnee,Art,801-651-1607,$1851.27
+129,Lonna,Coll,15,8/17/2008,F,Jabbersphere,San Diego,California,92145,Alfonso,Wooles,English,858-890-7586,$4338.06
+130,Caro,Dallas,14,3/9/2013,E,Bluejam,Houston,Texas,77030,Eugene,Schout,History,281-196-4947,$2256.87
+131,Aloisia,Fidler,16,5/19/2010,E,Mymm,Dallas,Texas,75236,Courtnay,Revington,History,214-948-3523,$2082.09
+132,Colas,Krzysztofiak,9,10/12/2011,F,Camido,Los Angeles,California,90060,Reilly,Wishart,Science,323-486-4432,$1925.42
+133,Aloisia,Jentle,9,5/18/2018,D,Twitterworks,Saint Paul,Minnesota,55166,Britney,Sailor,Science,651-851-1221,$1428.50
+134,Consalve,Bloxham,13,6/8/2018,F,Tagchat,Huntington,West Virginia,25721,Nev,Linnemann,Math,304-554-6398,$2433.69
+135,Arlen,Tomkys,6,8/27/2016,F,Meemm,Phoenix,Arizona,85030,Allan,Baynard,Math,602-202-6133,$1178.51
+136,Rasla,Sand,12,6/6/2017,A,Gevee,Saint Louis,Missouri,63121,Connie,Domange,History,314-364-0321,$4197.76
+137,Andria,Ricci,7,7/22/2016,C,Wikibox,San Antonio,Texas,78260,Jillane,Dimitrov,Math,830-253-6771,$2001.79
+138,Othilie,Gouth,18,4/24/2007,A,Voolia,Rochester,Minnesota,55905,Sidonia,Chesters,Art,507-214-1860,$2799.44
+139,Lorelei,Le Friec,10,12/16/2013,F,Thoughtmix,Tyler,Texas,75705,Delores,Dominguez,History,903-620-3920,$3260.33
+140,Quintana,Axston,17,6/22/2009,D,Pixope,Frederick,Maryland,21705,Binky,Wavish,Science,240-197-8991,$3077.49
+141,Merl,Lammiman,17,9/24/2010,D,Fatz,San Diego,California,92170,Isak,Perrin,History,619-839-6133,$4997.12
+142,Leland,Mushrow,10,2/8/2015,E,Gigaclub,Tulsa,Oklahoma,74116,Mireielle,Girodon,English,918-959-8321,$2252.80
+143,Freddi,Dudek,12,8/23/2009,D,Photobean,El Paso,Texas,88553,Orelia,Pudner,History,915-485-9339,$1455.89
+144,Freda,Vail,16,7/11/2007,A,Gevee,Tulsa,Oklahoma,74108,Meredith,Nelle,History,918-334-2676,$4055.75
+145,Kirsten,Scibsey,17,12/9/2011,F,Yabox,Yonkers,New York,10705,Gael,Brimble,English,914-980-4028,$4665.48
+146,Marcie,Pancoust,10,1/19/2017,F,Eimbee,San Mateo,California,94405,Freddie,Dionisi,Math,805-707-9942,$3079.96
+147,Ursala,Dyball,15,9/25/2011,D,Mita,Eugene,Oregon,97405,Jule,Glennard,Art,541-892-2837,$2720.39
+148,Gayla,Towle,11,9/28/2016,E,Shufflebeat,Houston,Texas,77260,Donnie,McGarva,Math,713-231-4928,$4157.52
+149,Theresita,Shinn,11,8/5/2007,D,Devpulse,Albuquerque,New Mexico,87105,Flinn,Gaze,History,505-253-4881,$1572.93
+150,Donelle,Tabourin,8,9/18/2008,B,Topiclounge,San Diego,California,92132,Rory,MacAskie,Math,619-434-3528,$4778.78
+151,Werner,Lowndsborough,11,12/16/2017,A,Meedoo,West Palm Beach,Florida,33421,Davey,Mack,Math,561-614-3962,$1253.84
+152,Livvy,Hardwell,13,5/19/2016,A,Katz,Lafayette,Louisiana,70593,Mackenzie,Iannuzzi,History,337-817-5157,$3588.88
+153,Veronique,Storrie,7,8/11/2006,C,Livetube,Houston,Texas,77075,Cherida,Ferrey,Science,281-916-5062,$2956.00
+154,Meier,Blackesland,15,3/3/2012,D,Tagfeed,Santa Fe,New Mexico,87592,Elisabeth,Jayne,Art,505-337-3562,$3932.99
+155,Rayshell,Illiston,10,3/13/2009,D,Brainsphere,Houston,Texas,77005,Anthony,Radolf,Math,832-282-8828,$1894.50
+156,Honey,Schwander,15,12/16/2007,A,Mudo,Tampa,Florida,33620,Gunter,Relph,Art,813-891-2606,$4181.34
+157,Lula,Knappett,6,8/7/2015,E,Yadel,Seattle,Washington,98148,Staffard,Edmonston,Science,206-596-1492,$2563.20
+158,Pippo,Whittier,16,11/20/2010,B,Browsetype,Las Vegas,Nevada,89150,Lalo,Spinke,Science,702-719-5806,$2565.80
+159,Archambault,Vergine,15,3/9/2007,F,Feedbug,Omaha,Nebraska,68164,Chrissie,Fick,English,402-650-4842,$1298.73
+160,Molli,Giovannini,14,10/23/2017,A,Avaveo,El Paso,Texas,79989,Even,Knowller,English,915-767-4556,$3759.72
+161,Teresa,Yurukhin,6,3/22/2006,B,Twitternation,Arlington,Virginia,22217,Norrie,Ellens,Science,571-460-2741,$4773.40
+162,Sebastiano,Loton,16,11/22/2016,C,Reallinks,Odessa,Texas,79769,Rowan,Ferby,Math,432-148-4604,$3997.28
+163,Yorgos,Sarl,17,9/29/2011,B,Kwilith,Charlotte,North Carolina,28284,Lorelei,Minchell,History,704-806-5848,$3252.24
+164,Waverley,Simmonds,8,1/12/2016,B,Zooveo,Columbus,Georgia,31914,Ambur,Jewers,History,706-159-4575,$1755.65
+165,Ashli,Pountain,10,4/13/2006,F,Shuffledrive,San Jose,California,95113,Oberon,Smowton,Science,650-563-5531,$4503.38
+166,Roscoe,Bashford,17,2/27/2015,F,Vinte,Charleston,West Virginia,25362,Carmine,Schwieso,History,304-919-5936,$4139.76
+167,Keven,Jeacock,10,2/13/2011,A,Oba,New Orleans,Louisiana,70124,Candis,Feilden,History,504-730-7018,$4316.86
+168,Mathe,Mylchreest,11,5/28/2010,B,Kwilith,Clearwater,Florida,33758,Stacie,Tiddeman,English,813-320-9604,$3240.16
+169,Isahella,Megahey,9,11/18/2010,A,Pixope,Louisville,Kentucky,40287,Shurwood,Tredgold,English,502-549-6819,$1183.43
+170,Hurleigh,Paudin,13,2/17/2016,B,Fadeo,Cape Coral,Florida,33915,Jordan,Cloney,History,239-609-2041,$1231.96
+171,Brody,Giacometti,17,2/4/2012,F,Agivu,Raleigh,North Carolina,27621,Felita,Dyers,Math,919-816-1668,$3699.67
+172,August,Voss,14,10/23/2008,F,Rhyloo,Waco,Texas,76796,Casandra,Goold,Math,254-798-5071,$4101.44
+173,Meridel,Aikett,13,9/22/2007,B,Demivee,Jacksonville,Florida,32230,Maxie,Webb,Science,904-808-7688,$3106.81
+174,Mackenzie,Schimpke,12,9/19/2015,C,Shuffledrive,Decatur,Georgia,30089,Gwen,Brewer,History,404-211-7146,$2970.62
+175,Kristoffer,Fradgley,13,7/7/2016,C,Lazz,Carlsbad,California,92013,Berny,Deex,History,760-403-2121,$2845.30
+176,Mead,Redwing,6,6/29/2007,D,Tazz,Jamaica,New York,11470,Dehlia,Godier,English,917-415-5428,$2140.38
+177,Malinde,Astill,10,4/16/2017,B,Zoozzy,Los Angeles,California,90005,Abbot,MacKerley,Science,562-643-6691,$4001.30
+178,Hall,Eidler,16,11/10/2011,F,Meezzy,Sioux Falls,South Dakota,57198,Julienne,Touson,Science,605-294-2426,$4446.89
+179,Sarita,Lokier,9,7/19/2007,B,Voomm,Buffalo,New York,14269,Darice,Unwin,English,716-498-6204,$3213.69
+180,Laney,Roskelley,11,12/16/2006,D,Thoughtblab,Orange,California,92867,Roby,Beedom,History,714-488-3843,$3315.35
+181,Brit,Howis,7,6/7/2016,E,Agivu,Seattle,Washington,98109,Luciano,Godbold,History,360-546-9117,$4564.93
+182,Karlan,Boscott,6,6/24/2010,E,Myworks,Des Moines,Iowa,50936,Abbey,Worley,History,515-611-2759,$1122.26
+183,Beulah,Mosconi,14,8/11/2006,B,Devify,Louisville,Kentucky,40287,Aliza,Gaspero,English,502-772-4229,$1440.50
+184,Ailene,Heinig,17,11/26/2006,D,Innotype,Worcester,Massachusetts,1654,Gratiana,Gledhall,Art,508-515-1575,$3780.60
+185,Kristel,Axby,11,2/1/2018,A,Vimbo,Philadelphia,Pennsylvania,19115,Kaylee,Deabill,Science,267-189-6082,$2060.88
+186,Andras,Jindrak,10,7/28/2006,A,Quinu,El Paso,Texas,79934,Liv,Hyndley,English,915-433-1911,$2866.38
+187,Rebecka,Sywell,16,8/3/2016,B,Reallinks,Denver,Colorado,80235,Bondon,Grealish,Art,720-353-3235,$1395.00
+188,Corabel,Chorlton,12,11/4/2006,E,Roombo,Waco,Texas,76705,Jobye,Ailward,Math,254-507-4413,$1339.69
+189,Blondie,Gravatt,16,6/30/2011,D,Ailane,Brooklyn,New York,11231,Wally,Drinnan,English,718-428-8607,$3113.14
+190,Camellia,Latty,17,5/18/2013,E,Wikizz,Pittsburgh,Pennsylvania,15225,Marcelia,de Quesne,Math,412-663-6227,$1309.56
+191,Grantham,Twinborne,14,7/12/2008,B,Twimm,Lansing,Michigan,48901,Edvard,Packham,Math,517-913-4396,$4992.65
+192,Annora,Doret,6,9/21/2018,C,Quinu,Washington,District of Columbia,20535,Cybill,Powys,Art,202-937-7144,$2809.42
+193,Osborne,Speerman,11,8/1/2013,B,Edgeblab,Savannah,Georgia,31410,Giulietta,Ettritch,Art,912-379-5216,$1868.38
+194,Calhoun,McIlhone,12,8/7/2015,C,Quinu,Fresno,California,93740,Lynn,Vasilyev,English,559-335-3167,$2721.86
+195,Roseanne,Quarmby,15,5/29/2017,C,Snaptags,Denver,Colorado,80262,Nat,Edie,Math,303-839-9249,$3436.65
+196,Sonny,Collis,9,1/1/2009,D,Demimbu,Saint Paul,Minnesota,55103,Maddie,Furness,Science,612-248-3372,$4073.33
+197,Mahmud,Kelly,15,11/25/2015,F,Photofeed,New Orleans,Louisiana,70165,Jemie,Gillice,Math,504-931-3022,$1203.76
+198,Dolorita,Pyson,9,4/29/2018,A,Wordpedia,Wilmington,Delaware,19886,Wendel,Mongeot,History,302-986-5838,$3678.42
+199,Dannye,Sambidge,8,4/6/2008,A,Yamia,Washington,District of Columbia,20244,Godard,Attard,History,202-258-1199,$2462.55
+200,Livia,Oliva,11,11/23/2010,F,Katz,Chicago,Illinois,60604,Idalina,Broe,Art,630-182-4619,$2827.37
+201,Orv,Kubalek,7,7/2/2008,A,Flipopia,Indianapolis,Indiana,46239,Borden,D'Cruze,History,317-189-7218,$2344.69
+202,Rosemary,Brockett,15,1/22/2010,F,Mycat,Daytona Beach,Florida,32123,Frazier,Rochewell,History,386-958-7590,$3894.20
+203,Margaux,Portail,15,2/20/2017,C,Twinder,Birmingham,Alabama,35231,Truman,Panswick,History,205-463-9964,$4209.19
+204,Maura,Beattie,6,5/16/2011,A,Photojam,Miami Beach,Florida,33141,Barty,Kloss,English,305-409-1232,$1654.92
+205,Keefe,Lefort,17,4/10/2013,D,Lajo,Aiken,South Carolina,29805,Alia,Wansbury,Art,803-655-9162,$2545.42
+206,Nancee,Fibbings,7,12/26/2011,A,Quatz,Shreveport,Louisiana,71151,Loralee,Piercy,History,318-514-3686,$4814.97
+207,Joyan,Shewring,12,2/6/2007,B,Demimbu,Glendale,Arizona,85311,Doug,Felipe,Science,602-591-4790,$3440.35
+208,Kirstyn,Doogan,18,11/13/2017,E,Quinu,Santa Ana,California,92705,Benedetta,Chmiel,Math,310-494-2911,$1057.85
+209,Kissie,Wogan,13,6/18/2017,A,Vimbo,Arlington,Virginia,22234,Anna-diane,Ridout,English,571-677-9168,$2486.81
+210,Christal,Ert,6,2/25/2016,B,Quinu,Atlanta,Georgia,30316,Jolee,Swainsbury,History,770-447-9276,$3062.35
+211,Geoff,Conyard,8,9/19/2016,E,Jazzy,Seattle,Washington,98109,Ailene,Bauer,English,425-778-4787,$1478.23
+212,Devlen,Pool,12,10/20/2007,A,Yotz,Topeka,Kansas,66611,Tierney,Linley,Math,785-782-0505,$2609.13
+213,Fidela,Poleye,8,3/23/2007,E,Youfeed,Washington,District of Columbia,20260,Carny,Spong,Art,202-624-3151,$4497.13
+214,Anastasia,Nozzolii,13,2/6/2015,B,Tagtune,New York City,New York,10110,Terence,Aughtie,Science,718-763-5660,$4565.56
+215,Iain,Twiddy,6,7/5/2016,F,Vitz,Macon,Georgia,31205,Rory,Gradley,English,478-849-6340,$3624.03
+216,Parker,Heinle,9,5/12/2016,A,Thoughtstorm,Miami,Florida,33180,Cymbre,Feechan,Math,305-497-5580,$4740.63
+217,Cad,Borrow,17,7/2/2016,B,Photobean,Orange,California,92867,Marshall,Medcalfe,English,714-625-9901,$2593.05
+218,Jocelyne,Balf,10,5/1/2006,A,Topicblab,Punta Gorda,Florida,33982,Laetitia,Finicj,Science,941-124-5612,$1825.52
+219,Marta,Burlay,9,2/27/2009,C,Geba,Washington,District of Columbia,20016,Nerty,Girardy,Science,202-315-2103,$1632.60
+220,Averell,Ferrettino,15,10/6/2007,C,Fivechat,North Little Rock,Arkansas,72118,Elwin,Pittendreigh,Math,501-270-3770,$3519.78
+221,Jacinda,Oddboy,7,1/7/2013,E,Yadel,Honolulu,Hawaii,96850,Schuyler,Clendennen,History,808-178-3950,$2111.20
+222,Meggy,Oventon,12,8/11/2015,C,Zoomdog,Austin,Texas,78732,Moe,Grimestone,Math,512-518-2087,$4475.85
+223,Ondrea,Lintott,15,2/16/2018,C,Yakitri,Louisville,Kentucky,40293,Kai,Grinyer,English,502-887-9787,$3917.90
+224,Abeu,Gaspar,10,1/9/2007,B,Blogspan,Pittsburgh,Pennsylvania,15266,Samara,Comizzoli,Math,-666-6433,$1651.51
+225,Graham,Bryson,11,4/27/2009,C,Jabberstorm,Greeley,Colorado,80638,Hatty,Kohlerman,Art,970-173-1041,$1555.14
+226,Fidel,Aland,10,12/30/2011,E,Skilith,Kansas City,Missouri,64109,Audy,Blackboro,Art,816-655-0801,$4085.01
+227,Obed,Huzzey,18,7/27/2014,E,Eire,Tampa,Florida,33620,Fee,Kirk,English,813-980-8249,$3939.33
+228,Felisha,Worms,8,5/19/2007,D,Gigashots,Amarillo,Texas,79159,Kathy,Fairebrother,Art,806-946-0700,$4359.86
+229,Sully,Antonias,11,3/20/2010,B,Quaxo,Athens,Georgia,30610,Kimberli,Berling,Math,706-372-4813,$2522.35
+230,Florian,Coweuppe,6,4/16/2008,F,Yacero,Boston,Massachusetts,2114,Calhoun,Tregenza,Art,781-586-9651,$1247.64
+231,Wendeline,Chrisp,12,5/20/2012,E,Roomm,Lubbock,Texas,79405,Theobald,Ghent,Art,806-819-2239,$1030.69
+232,Hastie,Gain,17,8/17/2006,A,Nlounge,Saint Louis,Missouri,63126,Gan,Kennington,Art,314-993-5432,$2895.45
+233,Mariejeanne,Godbolt,6,7/28/2011,B,Voonte,Miami,Florida,33134,Lyndell,Folke,History,786-355-4971,$1595.90
+234,Sven,Tidcomb,6,4/29/2006,C,Cogidoo,New Orleans,Louisiana,70129,Glenn,Nazer,Math,504-837-4191,$2365.27
+235,Tam,Drains,6,6/11/2006,D,Skimia,Irving,Texas,75037,Bengt,Gittose,Math,214-402-0080,$3584.12
+236,Inglebert,Dormon,15,3/16/2018,A,Blogpad,Saint Paul,Minnesota,55103,Liv,Fortman,English,612-508-7193,$2348.12
+237,Theodore,Woodfield,7,5/24/2018,F,Kwinu,Bonita Springs,Florida,34135,Kris,Matveiko,History,941-874-4683,$2861.42
+238,Caz,Alston,16,1/6/2013,A,Topicshots,Columbus,Georgia,31904,Sherrie,Hammett,English,706-217-0088,$1782.41
+239,Kaycee,Detheridge,6,6/13/2006,E,LiveZ,Flint,Michigan,48555,Lodovico,Scotts,History,810-620-1837,$3588.23
+240,Terrye,Cops,18,12/11/2013,C,Blogpad,Tuscaloosa,Alabama,35487,Ynes,O'Bradain,Science,205-747-6510,$4713.04
+241,Kerwinn,Pacquet,15,11/15/2014,D,Yombu,Phoenix,Arizona,85045,Arlyne,Tollett,English,602-839-7006,$3870.41
+242,Clare,Bettridge,15,1/7/2009,F,Shufflester,Atlanta,Georgia,31196,Modesta,Vedikhov,Math,404-250-5180,$3625.90
+243,Basil,Bertl,8,10/15/2018,C,Photojam,Kent,Washington,98042,Dulcinea,Bilbrook,Science,206-458-3540,$1462.04
+244,Gav,Snewin,7,9/11/2016,F,BlogXS,Charleston,West Virginia,25389,Marcelo,Roelofs,Math,304-705-6627,$4238.04
+245,Blair,Bellchamber,15,4/18/2009,D,Topicshots,Orlando,Florida,32808,Franklyn,Dunley,Science,321-676-8244,$2910.66
+246,Bradford,Shills,6,10/27/2008,C,Jabberstorm,Midland,Texas,79710,Antonin,Messitt,Art,432-584-8264,$3950.80
+247,Minta,Ledgard,13,7/5/2011,A,Blogpad,San Jose,California,95108,Borden,Philler,History,408-376-3570,$4169.40
+248,Adelaida,Igo,7,4/23/2014,E,Vinte,Washington,District of Columbia,20566,Alisha,Arkle,Math,202-117-3181,$4240.88
+249,Shae,Stearndale,17,3/13/2018,A,Kaymbo,South Bend,Indiana,46699,Klemens,Dunston,Math,574-114-3925,$3649.03
+250,Evey,Pleasance,17,2/7/2016,C,Zoomzone,Tulsa,Oklahoma,74133,Regen,Le Guin,History,918-285-5332,$4592.53
+251,Ignaz,Shuttleworth,12,10/25/2016,D,Rhyloo,Oklahoma City,Oklahoma,73167,Lisha,Wilcott,History,405-150-7075,$2307.95
+252,Russell,Cancelier,16,7/4/2012,F,Topiczoom,Colorado Springs,Colorado,80920,Lizabeth,Mompesson,Science,719-361-7469,$4656.00
+253,Caitlin,Crowter,8,10/17/2017,F,Yakidoo,Los Angeles,California,90060,Alverta,Froment,English,323-243-3968,$4311.00
+254,Brita,Beves,14,5/3/2018,B,Edgetag,Bradenton,Florida,34282,Betty,Jakoub,Math,941-492-2077,$3486.74
+255,Jacob,Mityashin,15,3/15/2018,E,Yozio,San Angelo,Texas,76905,Mal,Stoves,Art,325-769-0696,$4807.81
+256,Robinia,Leythley,17,2/27/2008,D,Feednation,Tampa,Florida,33680,Jaquelin,Wicher,Science,813-101-1193,$2354.65
+257,Arabela,Samson,17,6/15/2016,D,Meemm,Modesto,California,95354,Murdoch,Squirrel,Math,559-333-6831,$1679.73
+258,Nicolina,Wiggam,18,3/31/2015,A,Vipe,Bakersfield,California,93305,Gerti,Larwood,History,661-627-9501,$4090.35
+259,Berri,Weavill,17,6/18/2012,C,Zoomcast,Houston,Texas,77045,Sandie,Merwede,Science,713-509-1808,$2292.28
+260,Efrem,Walklate,15,8/5/2008,E,Feedfire,Jackson,Tennessee,38308,Karlie,Henze,Math,731-403-1466,$4050.54
+261,Charline,Palfreman,16,3/18/2010,D,Demizz,Houston,Texas,77035,Robby,Grimsdyke,Math,713-685-8811,$2898.97
+262,Fenelia,Brangan,15,9/20/2015,A,Aivee,Richmond,Virginia,23208,Angelica,Rajchert,Art,804-638-5979,$3380.35
+263,Jessey,Wandless,17,7/18/2008,F,Yombu,Atlanta,Georgia,30392,Carroll,Guido,Math,404-743-2372,$3985.03
+264,Luella,Wisniewski,15,3/27/2014,A,Rhyloo,Greensboro,North Carolina,27404,Rebeca,Dullingham,Art,336-762-6241,$1861.24
+265,Iago,Budgett,10,10/24/2013,E,Divanoodle,Hollywood,Florida,33023,Kelly,Bertrand,Art,954-782-1130,$2657.21
+266,Fabio,MacKeague,8,5/7/2006,E,Midel,San Antonio,Texas,78250,Alfi,Pepineaux,Art,210-387-6306,$3760.04
+267,Adah,Robertsen,11,3/31/2018,D,Edgeify,Birmingham,Alabama,35225,Lyndsay,Coupe,Science,205-936-6386,$4123.74
+268,Elmore,Darbey,16,8/28/2008,E,Photobug,Washington,District of Columbia,20073,Oralie,Haldon,Math,202-112-0434,$4957.51
+269,Buffy,McHan,18,6/26/2017,C,Skipfire,Wilmington,North Carolina,28405,De witt,MacParlan,History,910-591-7813,$1257.93
+270,Elsi,Chomicz,17,11/20/2014,A,Zoonder,Akron,Ohio,44393,Marj,Scanes,English,234-256-7302,$1240.93
+271,Cinderella,Dougan,18,3/11/2018,E,Fiveclub,New York City,New York,10270,Neilla,Cristofori,Math,646-954-5131,$1345.11
+272,Rebekah,Buzzing,7,7/20/2007,E,Myworks,Richmond,Virginia,23208,Glori,Wasielewicz,Art,804-316-3581,$2160.50
+273,Alfy,Devigne,8,3/14/2015,A,Oozz,Jamaica,New York,11436,Gael,Van der Brug,Math,718-538-1740,$1213.31
+274,Maurizio,Carnduff,11,3/1/2013,A,Jayo,Austin,Texas,78737,Arliene,Odgers,English,512-516-6751,$4504.38
+275,Diane,Ord,11,4/11/2010,F,Ainyx,Grand Rapids,Michigan,49510,Sybilla,Naisbit,English,616-136-3484,$4483.16
+276,Rudyard,Spikings,8,5/27/2013,E,Kwideo,San Rafael,California,94913,Eli,Gellan,English,415-413-7212,$2880.13
+277,Caesar,Scampion,10,3/23/2014,D,Gigashots,San Mateo,California,94405,Randi,Rosengren,Math,805-544-8078,$3352.57
+278,Fayina,Ailward,16,6/28/2011,F,Kazio,Tulsa,Oklahoma,74126,Mervin,Maffini,History,918-531-7131,$3170.38
+279,Mufi,Bather,18,5/6/2017,A,Zooxo,Jacksonville,Florida,32204,Horst,Wass,History,904-776-9004,$2375.62
+280,Domingo,Vondruska,15,7/5/2009,D,Realpoint,Omaha,Nebraska,68124,Chase,Dennert,Science,402-315-3188,$3105.99
+281,Paten,Thebe,6,11/30/2011,F,Cogibox,Lees Summit,Missouri,64082,Minor,Pafford,History,816-195-7134,$4533.07
+282,Lorene,Bugdall,15,3/19/2011,C,JumpXS,Bakersfield,California,93399,Alie,Tomsu,Art,661-877-0521,$3218.13
+283,Roddie,Esilmon,8,5/6/2008,F,Mybuzz,Fort Wayne,Indiana,46857,Lanita,Cristea,Art,260-631-7715,$1278.88
+284,Wyn,Brisseau,18,11/16/2016,C,Browseblab,Tucson,Arizona,85720,Giovanna,Simco,Science,520-674-0763,$4862.17
+285,Pandora,Southey,16,1/26/2007,B,Abatz,Minneapolis,Minnesota,55470,Fancie,Thalmann,English,612-438-1710,$4792.76
+286,Trefor,Monketon,11,2/4/2013,D,Rhybox,Fort Lauderdale,Florida,33310,Ambur,Avramovich,Math,754-751-6943,$4023.18
+287,Delmar,Esposita,6,1/25/2006,C,Trilia,New York City,New York,10280,Hartley,Fox,Science,917-337-9753,$1266.47
+288,Inglebert,Pfeifer,10,8/25/2012,E,Buzzbean,Atlanta,Georgia,30351,Kennie,Hewertson,English,404-888-3716,$2013.51
+289,Sonny,Fotitt,13,8/29/2016,E,Kare,Memphis,Tennessee,38150,Liza,Mewis,Math,901-216-9177,$4593.57
+290,Lodovico,Hardage,15,10/4/2008,D,Browsebug,Asheville,North Carolina,28815,Arch,Bruty,Math,828-175-3904,$1871.66
+291,Alison,Nairns,9,6/16/2012,F,Aimbu,Huntsville,Texas,77343,Horst,Bellfield,Math,936-217-5699,$2152.38
+292,Ferrel,Cookman,8,2/4/2011,F,Shufflebeat,Kansas City,Missouri,64130,Adelbert,Wayon,Science,816-207-1923,$1540.31
+293,Lesya,MacGall,8,11/2/2018,C,Edgetag,Morgantown,West Virginia,26505,Mildred,McCree,Art,304-718-4270,$2505.57
+294,Tracie,Ibarra,16,1/14/2018,B,Tagchat,Garden Grove,California,92645,Shayne,Waind,History,714-459-6674,$4850.05
+295,Louie,Sarsons,18,3/3/2015,A,Divape,Dallas,Texas,75210,Correna,Clarey,Art,469-696-2062,$1100.48
+296,Jaime,Weagener,9,12/5/2011,D,Bluezoom,Fort Lauderdale,Florida,33305,Conant,Kobpa,English,954-489-6514,$4915.10
+297,Reggie,Drioli,15,9/9/2010,F,Skilith,Hartford,Connecticut,6105,Shelli,Damp,English,203-744-6207,$3509.70
+298,Laney,Kegan,13,4/5/2013,F,Oodoo,Tacoma,Washington,98447,Rubia,Scotsbrook,English,253-672-0047,$3336.12
+299,Zara,Jarrett,15,2/6/2013,E,Flipstorm,Los Angeles,California,90094,Jourdan,MacTimpany,English,323-384-0521,$4235.09
+300,Juieta,De Malchar,13,7/29/2006,B,Voonder,Fort Collins,Colorado,80525,Midge,Hardes,History,970-242-1669,$1989.81
+301,Shana,Hollyman,17,1/19/2006,E,Twitterbeat,Akron,Ohio,44310,Salomi,Douche,English,330-828-7369,$3921.40
+302,Valli,Baldacchi,13,3/8/2012,A,Rhybox,Atlanta,Georgia,31106,Ardis,Cecere,Art,404-710-1705,$2181.66
+303,Jehu,Fortie,11,1/4/2017,C,Linkbuzz,Cleveland,Ohio,44130,Tallou,O'Sharry,Science,216-339-1551,$3086.55
+304,Windy,Poytheras,9,2/8/2010,E,Quimba,Denver,Colorado,80262,Egon,Bradlaugh,History,303-352-5423,$2119.01
+305,Barb,Garnsey,6,9/13/2013,C,Wikido,Tacoma,Washington,98442,Christian,Grishin,Science,253-494-2257,$4107.31
+306,Mathias,Roubottom,9,10/1/2007,D,Oozz,Austin,Texas,78754,Penny,Giorgeschi,History,512-392-6264,$4618.27
+307,Jennica,Blundin,18,2/19/2008,D,Linklinks,Tucson,Arizona,85715,Mariel,Snell,Math,520-998-3027,$4307.40
+308,Karlotte,Altham,13,6/1/2017,A,Skyba,Birmingham,Alabama,35225,Ruggiero,Andreotti,Math,205-807-9666,$1148.65
+309,Leonerd,Charer,14,2/6/2015,E,Teklist,Springfield,Massachusetts,1114,Engelbert,Gye,Math,413-914-4309,$4031.15
+310,Merrill,Demangel,6,1/8/2007,C,Meeveo,Saint Paul,Minnesota,55188,Efrem,Tolossi,Art,651-973-7982,$4483.25
+311,Fabio,Jenik,8,12/25/2013,A,Vipe,Jackson,Mississippi,39204,Keeley,Eliasen,History,601-416-8804,$1157.64
+312,Dionisio,Bockman,13,11/2/2008,B,Kazio,Fresno,California,93786,Lorrie,Rust,English,559-708-4725,$1137.50
+313,Analiese,Pucknell,18,5/14/2008,D,Centidel,Lakeland,Florida,33811,Melita,Deneve,English,863-801-8052,$1027.02
+314,Tiffy,Goodram,11,3/13/2011,B,Topicblab,Buffalo,New York,14269,Saloma,Hartness,Math,716-832-8086,$2934.33
+315,Ernie,Guirau,7,7/28/2009,E,Snaptags,Jersey City,New Jersey,7310,Adan,Canadine,History,973-788-4405,$2182.05
+316,Cherish,Copyn,17,6/7/2009,D,Voonyx,Tucson,Arizona,85715,Lacey,Peasey,Science,520-727-2950,$1988.30
+317,Rochelle,Rendell,17,1/6/2014,F,Flipopia,Wilmington,Delaware,19897,Woodman,Crowhurst,Art,302-931-9938,$1883.32
+318,Joni,Stimson,12,12/15/2014,E,Jayo,New York City,New York,10175,Barnie,Butterly,Science,646-454-7156,$3105.55
+319,Gardener,Dilley,18,2/26/2011,C,Dabshots,Houston,Texas,77234,Lilian,Axelbee,Science,713-853-1835,$3718.11
+320,Carol,Womersley,13,11/12/2015,C,Centidel,Trenton,New Jersey,8650,Marie-jeanne,Raithby,English,609-582-6511,$2597.10
+321,Halimeda,Baudasso,16,11/20/2010,A,Fatz,San Jose,California,95194,Jock,Vickery,English,408-303-4581,$2048.71
+322,Mose,Sansun,12,1/3/2011,A,Wikibox,Homestead,Florida,33034,Mervin,Blumsom,History,305-514-7725,$3350.05
+323,Cheslie,Snozzwell,11,6/24/2015,E,Edgeify,Louisville,Kentucky,40287,Pansie,Rosier,Math,502-227-2450,$3620.50
+324,Sigfrid,Clowley,18,2/2/2011,A,Livetube,Tacoma,Washington,98405,Giorgia,Eskrick,English,253-519-6921,$2388.94
+325,Iver,Klulicek,12,10/27/2014,D,Jayo,Greensboro,North Carolina,27404,Kaleb,Finders,Math,336-188-6211,$4858.15
+326,Tedi,Tuplin,7,8/31/2006,F,Trupe,Washington,District of Columbia,20036,Kellen,Gullivent,English,202-595-4178,$2636.70
+327,Martica,Keating,10,5/6/2012,D,Zoomlounge,Los Angeles,California,90087,Aviva,Luddy,Science,213-597-1378,$1913.42
+328,Farr,Molson,10,11/18/2016,D,Thoughtsphere,Pittsburgh,Pennsylvania,15210,Leonard,Cooney,Math,724-577-3541,$1609.57
+329,Celisse,Spraggon,6,2/12/2009,E,Jabberbean,Lakeland,Florida,33805,Tessa,Oldknowe,Science,863-449-6428,$3843.66
+330,Jo,Casey,8,11/27/2014,E,Vipe,Louisville,Kentucky,40220,Bryna,Brandacci,Art,502-752-4259,$1608.31
+331,Garrek,Danskine,15,3/27/2014,C,Voomm,Charleston,West Virginia,25331,Auria,Brittoner,Art,304-863-5388,$3400.92
+332,Nehemiah,Ronchetti,6,6/3/2009,F,Nlounge,Woburn,Massachusetts,1813,Tynan,Glenwright,Math,339-504-5094,$1940.26
+333,Boyd,Gladdor,18,6/3/2016,A,Skyba,Bradenton,Florida,34282,Ignaz,Mellmer,Math,941-926-6157,$3308.15
+334,Chrotoem,Yankeev,8,8/14/2006,A,Riffwire,New York City,New York,10099,Linzy,Basini-Gazzi,Science,646-371-3974,$1248.17
+335,Lek,Dunning,14,5/9/2007,F,Feedmix,Miami,Florida,33190,Erena,Wavell,English,786-642-0671,$1637.12
+336,Marsh,Overbury,12,1/3/2008,C,Quaxo,Kansas City,Missouri,64125,Kirsteni,Preskett,Science,816-279-7710,$1345.75
+337,Yanaton,Andrusyak,11,3/23/2018,A,Aimbu,Las Vegas,Nevada,89105,Jeni,Maybury,Math,702-192-0038,$1438.93
+338,Wittie,Weben,9,2/10/2013,D,Topicshots,El Paso,Texas,88514,Lucina,Richten,History,915-285-8283,$4340.64
+339,Roderick,Kielt,8,2/23/2006,F,Kare,Juneau,Alaska,99812,Sheba,Tesoe,Art,907-491-9088,$4235.34
+340,Monica,Wallis,18,2/26/2015,C,Fiveclub,Jacksonville,Florida,32255,Inga,Carlyon,Art,904-630-8880,$3336.86
+341,Frannie,Quilligan,11,10/21/2016,E,Tambee,Maple Plain,Minnesota,55572,Rosalind,Ogley,Art,763-142-0637,$2940.79
+342,Margalo,Swede,6,12/7/2013,E,Trudoo,Atlanta,Georgia,30323,Betteanne,Nand,Art,770-822-4026,$4568.50
+343,Tamara,Walthall,15,10/12/2014,D,Katz,Houston,Texas,77030,Malinda,Giacomuzzo,History,832-927-9269,$3371.03
+344,Penelope,Wadge,12,9/24/2016,E,Lazz,Augusta,Georgia,30911,Neila,Bannard,Art,706-151-5256,$4927.72
+345,Phyllida,Cregg,12,9/16/2011,A,Talane,Farmington,Michigan,48335,Banky,Voak,English,248-556-1901,$4692.19
+346,Fraze,Michelle,7,1/29/2014,B,Skiba,Washington,District of Columbia,20010,Odette,Bramwell,History,202-116-6411,$2982.70
+347,Decca,Hayle,11,12/11/2011,B,Bubblemix,Los Angeles,California,90025,Dinny,Perrin,Science,213-724-6221,$4442.13
+348,Florenza,Bampforth,18,7/9/2018,F,Zoombeat,Riverside,California,92519,Sampson,Gonnelly,Science,951-764-7134,$1605.52
+349,Rasia,Pellant,11,8/9/2012,A,Devpoint,Panama City,Florida,32412,Lorinda,Masic,Science,850-246-8914,$4731.55
+350,Janet,Robinette,14,3/12/2015,E,Aimbu,Washington,District of Columbia,20220,Modestine,Josefsohn,English,202-324-5603,$4150.49
+351,Tobias,Caroli,9,11/5/2010,C,Centidel,Washington,District of Columbia,20057,Erinn,Reeveley,English,202-467-1429,$1628.70
+352,Charla,Vamplers,6,12/27/2015,B,Skyndu,Odessa,Texas,79769,Ivar,Marciskewski,Math,432-124-7529,$3784.30
+353,Randie,Mallabar,17,5/28/2011,B,Digitube,Milwaukee,Wisconsin,53205,Laurette,Labes,Math,414-977-5178,$3074.71
+354,Linoel,McDermid,11,12/20/2010,A,Zoomdog,Sioux City,Iowa,51110,Judye,Hailston,History,712-306-6290,$2775.08
+355,Rube,Valett,6,5/1/2016,E,Zooxo,New York City,New York,10120,Nicolas,Wark,English,212-734-2597,$2268.25
+356,Gerrie,Glozman,7,10/8/2009,E,Kazu,Washington,District of Columbia,20470,Malory,Le Houx,Art,202-524-8899,$3579.29
+357,Margarita,Mion,12,2/9/2013,A,Zoomdog,Worcester,Massachusetts,1654,Denver,Messenbird,History,508-482-3665,$3314.27
+358,Garek,Peter,10,1/10/2017,D,Cogibox,Orlando,Florida,32808,Reginauld,Stimpson,Science,407-927-0775,$4394.29
+359,Eldin,Levecque,9,8/12/2012,D,Geba,Stamford,Connecticut,6905,Jeno,Livsey,History,203-824-9101,$4263.71
+360,Evonne,Vennard,13,1/16/2008,A,Zoonoodle,Bozeman,Montana,59771,Cosimo,Flitcroft,Art,406-962-5262,$1515.60
+361,Tucker,Garbutt,14,6/3/2010,F,Twimm,Louisville,Kentucky,40210,Kent,Harnor,English,502-449-4367,$4761.09
+362,Lurlene,Waterworth,10,10/13/2008,F,Skipstorm,Duluth,Minnesota,55811,York,Torrejon,Math,218-896-8083,$1489.81
+363,Theda,Thomesson,17,8/21/2017,F,Jamia,Fort Myers,Florida,33994,Ermengarde,Hastewell,English,239-530-8716,$2723.34
+364,Royall,Obert,11,5/29/2007,D,Kwilith,Newark,New Jersey,7104,Deny,Hastelow,Science,973-265-3351,$4085.48
+365,Shanna,Dearing,13,11/20/2018,A,Vipe,Grand Rapids,Michigan,49505,Bianca,Kidman,History,616-782-1635,$4117.18
+366,Giulietta,Okenden,18,10/6/2017,B,Twitterworks,Amarillo,Texas,79159,Dwight,Stitwell,Art,806-543-3585,$3172.55
+367,Ase,Thorbon,17,4/6/2016,D,Jabberbean,Denver,Colorado,80243,Bathsheba,Guittet,History,303-460-3566,$1878.59
+368,Nicola,Lownds,13,5/4/2010,F,Edgetag,Stamford,Connecticut,6922,Ebenezer,Strangman,Math,203-431-5940,$2293.29
+369,Dwayne,Kittle,18,8/24/2012,B,Shuffletag,Omaha,Nebraska,68134,Sylvester,Tuohy,Math,402-850-6012,$4318.01
+370,Terrye,Stock,11,4/1/2014,B,DabZ,Springfield,Missouri,65810,Benjie,Inchboard,Science,417-866-4699,$3584.26
+371,Phillipp,Houseago,18,1/27/2015,D,Browsebug,Portland,Oregon,97206,Thibaud,Jacqueme,Science,503-357-1818,$1436.91
+372,Sibella,Dedenham,10,12/6/2018,E,Yadel,Chicago,Illinois,60686,Chev,Dudley,Math,312-164-2200,$1906.06
+373,Bebe,Ebi,12,3/13/2017,E,Babblestorm,Lincoln,Nebraska,68517,Evelyn,Vallender,History,402-791-2874,$4569.02
+374,Rachele,Lowdiane,11,2/3/2016,F,Rhybox,San Jose,California,95160,Johny,Mowsley,Science,408-762-8460,$1336.37
+375,Ezekiel,Beckford,11,4/6/2018,D,Photobug,Indianapolis,Indiana,46207,Daffi,Baudet,English,317-492-4565,$1534.64
+376,Cristal,Smead,7,1/24/2012,F,Twitterworks,Greeley,Colorado,80638,Barclay,Rake,English,970-631-0561,$1698.80
+377,Gardy,Behneke,9,7/9/2018,B,Feedfish,Elmira,New York,14905,Clotilda,Cuff,Art,607-814-4698,$4850.45
+378,Hortensia,Kinnock,11,8/19/2015,B,Tagchat,Lansing,Michigan,48912,Lem,Hinkens,Art,517-577-0769,$2999.49
+379,John,Durbyn,9,4/2/2009,A,Thoughtbeat,Muskegon,Michigan,49444,Sharron,Tomasian,English,231-648-3486,$1794.55
+380,Lilyan,Gillis,11,5/6/2017,F,Devpoint,Brooksville,Florida,34605,Rikki,Fraschini,Math,352-543-2351,$1829.92
+381,Jenelle,Trayling,11,11/20/2015,B,Demivee,Milwaukee,Wisconsin,53225,Janella,Mahony,English,414-249-8477,$2444.17
+382,Carolina,Cristofano,12,5/5/2012,D,Brainverse,Cincinnati,Ohio,45264,Wallie,Clayborn,Math,513-280-8126,$4887.74
+383,Eran,Deport,8,12/7/2008,F,Blogpad,Long Beach,California,90840,Sissie,MacQuarrie,Art,562-365-0445,$3949.71
+384,Noel,Elcy,16,7/9/2015,A,Quamba,Miami,Florida,33185,Abigale,Aleksich,History,305-706-1326,$1238.49
+385,Peria,Elgar,9,8/11/2010,E,Meevee,Seattle,Washington,98104,Codie,Urling,Math,206-140-1131,$1741.56
+386,Amie,Ossenna,11,9/17/2017,C,Blogspan,Anderson,Indiana,46015,Maridel,Kurten,Math,765-939-5772,$2367.18
+387,Ingrim,Chard,17,11/17/2015,C,Skimia,Allentown,Pennsylvania,18105,Kaitlin,Cartmail,History,610-103-0725,$3409.30
+388,Karla,Barnewille,18,8/24/2011,C,Realbridge,Miami,Florida,33190,Hyacinthie,Emeline,Art,786-391-7462,$4355.95
+389,Franklin,Brigdale,9,10/25/2015,B,Jamia,Tucson,Arizona,85737,Codee,Broddle,History,520-328-7780,$3843.68
+390,Lianne,Woodrooffe,16,7/10/2016,C,Fiveclub,San Francisco,California,94177,Lydie,Bourget,Science,415-899-9265,$3423.59
+391,Cornelle,Breche,13,8/10/2007,A,Ailane,Dallas,Texas,75236,Gilbertina,Shalcras,English,214-558-0595,$2677.54
+392,Aguste,Evetts,11,1/12/2008,A,Yacero,New Orleans,Louisiana,70165,Ulberto,McShee,Art,504-630-1729,$3501.04
+393,Elvyn,Tysall,16,6/29/2008,F,Skidoo,Brooklyn,New York,11215,Haily,Edgley,Math,646-459-3685,$4016.34
+394,Chiquita,Hartigan,13,12/4/2016,E,Roomm,Washington,District of Columbia,20380,Magda,Mansuer,Science,202-164-3826,$4809.95
+395,Blanche,Witcherley,18,2/8/2011,A,Npath,Chattanooga,Tennessee,37416,Claribel,Castelyn,English,423-592-8518,$1299.57
+396,Nellie,Lakes,10,11/9/2016,D,Wordify,Springfield,Virginia,22156,Mohandis,Gehrts,History,571-175-5489,$3801.40
+397,Josh,O'Leary,7,11/25/2007,E,Buzzbean,Portland,Oregon,97232,Sunny,Hanfrey,Science,503-991-9260,$2820.01
+398,Baxter,Benedicte,15,11/11/2018,F,Talane,El Paso,Texas,88563,Hobey,Haigh,Art,915-452-9747,$4902.79
+399,Clare,Imore,10,7/6/2018,C,Oba,Arvada,Colorado,80005,Joane,Bonifazio,History,720-953-4343,$4300.33
+400,Christiana,Yelyashev,9,6/28/2012,D,Feedbug,Saint Petersburg,Florida,33731,Bobbie,Pales,Math,727-648-9325,$4930.98
+401,Diandra,Fearick,9,11/9/2008,B,Meeveo,Atlanta,Georgia,31196,Jessey,Fullbrook,English,404-313-3296,$4499.00
+402,Anderea,Britnell,12,5/31/2008,D,Oyoyo,Stamford,Connecticut,6922,Giavani,Frenchum,History,203-959-1130,$1933.32
+403,Clayson,M'Chirrie,8,11/25/2017,C,Flipstorm,Washington,District of Columbia,20231,Kristen,Joselson,History,202-621-6485,$4345.35
+404,Buddy,Videneev,16,10/19/2008,B,Youtags,Pittsburgh,Pennsylvania,15220,Cecelia,Happel,Math,412-576-5364,$1054.82
+405,Boonie,Terrazzo,9,3/20/2011,F,Gabcube,New York City,New York,10090,Toiboid,Myott,English,212-289-7211,$3428.16
+406,Claudette,Aitkin,12,5/25/2007,B,Twimbo,Daytona Beach,Florida,32123,Zora,Riach,Science,386-261-1745,$3027.34
+407,Doris,Slate,15,7/30/2011,C,Yabox,Sacramento,California,94286,Mari,Selborne,Art,916-867-3825,$4824.82
+408,Gertruda,McCarle,7,12/1/2009,B,Brightbean,Houston,Texas,77245,Shannon,Croci,Art,713-167-6975,$1615.05
+409,Renault,Maguire,18,11/24/2011,D,Thoughtblab,Abilene,Texas,79699,Ardra,Glashby,Math,325-262-5327,$2154.36
+410,Al,Koppe,12,8/13/2007,C,Bluejam,Houston,Texas,77299,Griffie,Duckett,Art,713-992-2210,$3700.54
+411,Giustina,Lindbergh,17,6/14/2017,C,Twinte,Greenville,South Carolina,29605,Valaree,Marcu,Math,864-606-8000,$1157.65
+412,Enrico,Deppe,18,11/7/2009,C,Aivee,Lexington,Kentucky,40581,Sascha,Derry,Art,859-639-9922,$4528.17
+413,Timothy,Angeau,18,5/2/2010,B,Tagchat,Anaheim,California,92812,Bar,Wiltshaw,English,714-275-5584,$1940.13
+414,Marcille,Paskerful,12,9/30/2017,C,Yakitri,Nashville,Tennessee,37220,Domini,Burnard,History,615-811-9546,$3966.20
+415,Homere,Vasilechko,17,3/21/2011,B,Thoughtstorm,Killeen,Texas,76544,Mariquilla,Simmill,Science,254-505-9393,$4705.92
+416,Marys,Gendrich,18,9/26/2012,A,Kwideo,Atlanta,Georgia,30380,Claretta,Coltart,Science,404-264-2561,$3743.47
+417,Jackson,Dorgan,12,2/26/2018,F,Quire,Portland,Oregon,97232,Verine,Barrs,English,503-675-9565,$3335.71
+418,Sharla,Jaulmes,8,7/3/2009,C,Voomm,Chicago,Illinois,60646,Evin,Helmke,Science,312-605-5997,$3097.46
+419,Vernon,Ferschke,15,1/4/2006,C,Realbuzz,New Haven,Connecticut,6510,Blair,Dwyer,History,203-785-1800,$4364.68
+420,Peta,Swaddle,13,6/12/2006,A,Oyoba,Wichita,Kansas,67220,Danyette,Curwood,English,316-688-0147,$2316.65
+421,Branden,Francioli,15,3/10/2007,E,Skidoo,Jackson,Mississippi,39282,Dionne,Deners,Math,601-300-0452,$1744.69
+422,Viv,Longmuir,8,4/27/2008,B,Zava,Aurora,Illinois,60505,Anastasie,Brierley,English,312-784-8478,$1041.18
+423,Ciel,Hullyer,9,12/17/2011,C,Yamia,Minneapolis,Minnesota,55448,Zorana,Beggan,English,763-469-0567,$1644.36
+424,Hartwell,Dumingos,6,1/11/2013,B,Kaymbo,Miami,Florida,33245,Ricki,Kiefer,Art,786-349-1933,$2171.77
+425,Ileana,Boatwright,17,11/15/2014,A,Kimia,Irvine,California,92619,Viole,Rycroft,English,949-887-4565,$3016.57
+426,Gladi,Dibb,8,4/9/2008,E,Skinix,Carson City,Nevada,89714,Klarika,Lightoller,Math,775-898-0700,$2793.20
+427,Hussein,Franseco,11,11/28/2010,D,Oozz,New York City,New York,10184,Yankee,Pigford,Art,212-199-2725,$2524.83
+428,Florinda,Crowhurst,18,9/3/2015,B,Photospace,El Paso,Texas,88530,Jervis,Tearny,English,915-812-1770,$2249.92
+429,Irina,Gullifant,13,9/4/2018,B,Ntags,Redwood City,California,94064,Manny,Lefeuvre,Math,650-318-9657,$1200.65
+430,Katharine,Noblet,7,2/22/2017,F,Chatterpoint,Carol Stream,Illinois,60158,Sigmund,Jorge,Art,309-934-7850,$1246.59
+431,Marta,Dougherty,10,1/20/2014,F,Mymm,Washington,District of Columbia,20073,Jacinthe,Copyn,History,202-171-8594,$4419.95
+432,Denice,Ilsley,18,2/6/2008,E,Voonyx,Saint Paul,Minnesota,55108,Bartolomeo,Harden,Art,651-915-0184,$3375.42
+433,Michael,Hutchings,17,3/26/2006,B,Abata,Mobile,Alabama,36641,Marget,Palle,Art,251-824-0866,$1202.96
+434,Alister,Blackster,12,5/3/2013,B,Avamm,Kansas City,Missouri,64153,Reinold,Jaynes,Art,816-338-4130,$1597.26
+435,Karlene,Reinisch,6,10/25/2010,C,Eadel,Kansas City,Missouri,64187,Zedekiah,Unger,History,816-514-6216,$1910.43
+436,Muffin,Plows,9,8/3/2017,D,Wikizz,Baltimore,Maryland,21282,Archibald,Wingate,English,410-181-0459,$1748.17
+437,Doroteya,Crowch,17,8/17/2012,C,Wikido,Fort Worth,Texas,76105,Kerrill,Dawley,Science,682-845-5822,$1211.08
+438,Toby,Sorsby,14,12/5/2011,C,Zava,Minneapolis,Minnesota,55417,Maxie,Edgcombe,Art,612-988-7081,$2326.56
+439,Selma,Joan,8,1/8/2010,D,Voolith,Raleigh,North Carolina,27626,Zilvia,Stair,History,919-848-3082,$2291.78
+440,Marylinda,Giveen,6,4/10/2007,D,Yodo,Dallas,Texas,75367,Theobald,Pennycock,Science,214-110-5353,$1031.15
+441,Innis,Brett,7,4/29/2008,F,Tagpad,Anaheim,California,92805,Jeniffer,Wolpert,Math,562-689-3228,$2155.83
+442,Alano,Curmi,10,3/3/2011,C,Yabox,New Haven,Connecticut,6505,Maisie,Louiset,History,203-303-5784,$2575.35
+443,Neilla,Petrushkevich,18,12/21/2017,A,Flipstorm,Indianapolis,Indiana,46278,Costa,Philipsohn,History,317-653-5982,$1643.94
+444,Ed,Nevet,17,6/22/2015,A,Podcat,Dallas,Texas,75367,Richmond,Prendergrast,Math,214-124-6136,$4272.35
+445,Billy,Sinnott,6,6/1/2006,B,Quaxo,Fort Wayne,Indiana,46825,Joelie,Bottjer,Math,260-392-9053,$4777.32
+446,Henri,Selland,16,9/11/2009,C,Dabvine,El Paso,Texas,79989,Stacy,Aylett,History,915-937-4233,$4047.27
+447,Jereme,Tertre,14,6/9/2007,A,Fivechat,Detroit,Michigan,48295,Nanny,Stratz,Math,313-463-6038,$3546.81
+448,Milty,Spur,14,10/8/2017,A,Edgeclub,Sandy,Utah,84093,Ted,Dumbleton,Math,801-696-8683,$4503.39
+449,Mandi,Fealey,12,11/5/2012,F,Voolith,Houston,Texas,77234,Prescott,Squires,Math,713-747-2757,$3959.66
+450,Shandee,Colton,7,12/24/2008,C,Aivee,San Diego,California,92127,Gasper,Struis,Art,760-456-1041,$4428.49
+451,Goraud,Helks,14,12/9/2012,C,Tazz,Evansville,Indiana,47705,Rosabel,Surgen,Math,812-306-9099,$3160.88
+452,Charita,Kluss,17,10/23/2015,F,Linkbridge,El Paso,Texas,79928,Konrad,Timeby,Science,915-141-7692,$3420.57
+453,Clive,Lemmanbie,15,3/17/2006,B,Quire,Fort Wayne,Indiana,46852,Skelly,Guy,History,260-695-6648,$4421.61
+454,Yurik,Dobrovolski,13,6/13/2015,E,Shuffletag,Honolulu,Hawaii,96805,Wally,Nation,Art,808-926-5887,$3338.00
+455,Annalee,Hubbis,6,5/9/2008,D,Yakijo,Brooklyn,New York,11247,Annissa,Joy,English,212-977-3311,$1055.71
+456,Letizia,Standring,18,12/11/2016,C,Browsezoom,San Francisco,California,94177,Chad,Millington,Art,415-281-9274,$3410.07
+457,Brand,Clitsome,18,3/24/2007,F,Abata,Charlottesville,Virginia,22908,Beatrisa,Jozsa,Science,434-625-9820,$3834.05
+458,Yalonda,Rimington,17,4/24/2013,E,Ntag,Lexington,Kentucky,40524,Arron,Van der Kruijs,History,859-238-3351,$4070.76
+459,Byron,Wiffler,11,12/3/2017,F,Centizu,Baltimore,Maryland,21229,Kelly,Pinor,Science,410-821-5885,$3342.52
+460,Falkner,Ayrton,6,10/28/2017,C,Vinder,San Antonio,Texas,78250,Giacobo,Blown,Art,210-711-0498,$3074.64
+461,Claretta,Welbelove,8,1/14/2018,D,Kazio,Minneapolis,Minnesota,55428,Shaw,Burdoun,Science,612-758-4038,$4916.11
+462,Luciano,Paler,9,8/25/2010,C,Jabbersphere,Washington,District of Columbia,20319,Luce,Titmus,English,202-616-9502,$4397.94
+463,Dan,Dufoure,6,3/15/2013,D,Teklist,Shreveport,Louisiana,71166,Kirk,Randall,English,318-960-8622,$4222.56
+464,Silvano,Fortune,9,10/18/2014,B,Tazz,Philadelphia,Pennsylvania,19104,Saw,Mongain,English,610-190-3009,$4506.59
+465,Cathlene,Filppetti,16,8/8/2011,E,Kare,Saint Joseph,Missouri,64504,Tally,Digger,English,816-926-7997,$3749.43
+466,Bryon,Zelley,8,6/15/2014,B,Fivechat,Cincinnati,Ohio,45228,Lia,Duferie,English,513-719-5714,$1454.51
+467,Caressa,Jinkin,11,8/18/2010,B,Babbleblab,Milwaukee,Wisconsin,53263,Rocky,Adlard,Math,414-221-0279,$4383.05
+468,Loreen,Heinsh,17,4/11/2011,F,Skiba,Flint,Michigan,48555,Tiebold,Dilkes,Art,810-491-6730,$2332.81
+469,Babbette,Gentle,13,5/23/2014,C,Mynte,Wichita,Kansas,67220,Sofia,Renner,Math,316-172-6166,$3418.39
+470,Decca,Jedraszczyk,16,9/2/2010,D,Agivu,Staten Island,New York,10310,Augustus,Bain,English,914-383-2897,$2912.01
+471,Willa,Bellows,12,8/31/2009,F,Npath,Bridgeport,Connecticut,6606,Worth,Farloe,Science,203-405-7460,$1697.24
+472,Marguerite,Manntschke,6,6/15/2013,A,Twitterbridge,Houston,Texas,77090,Perice,Plaskett,English,936-238-1961,$4612.89
+473,Quill,Rathe,7,10/2/2013,F,Youbridge,White Plains,New York,10633,Jonas,Spritt,Science,914-706-7257,$4295.14
+474,Sidonnie,Probbings,18,5/18/2011,C,Kwideo,San Francisco,California,94154,Katerina,Margaritelli,English,415-324-3749,$2004.90
+475,Melvyn,Daniely,7,5/28/2007,B,Einti,Chicago,Illinois,60624,Tobie,Calles,English,312-256-6984,$4131.22
+476,Ferrel,Merigot,12,12/5/2007,A,Eire,Watertown,Massachusetts,2472,Corrie,Chinnery,Art,781-831-3446,$3713.75
+477,Tanya,McGlade,13,4/19/2011,A,Tekfly,Atlanta,Georgia,30343,Dusty,Turpey,Math,404-315-0462,$4231.59
+478,Hewitt,Dalgetty,10,8/13/2006,E,Babbleopia,Young America,Minnesota,55573,Ingamar,Surphliss,Art,952-441-3230,$3148.77
+479,Dede,Agglione,14,11/16/2010,F,Thoughtstorm,Kingsport,Tennessee,37665,Vinny,Cobbe,Science,423-277-8065,$1727.03
+480,Ines,Cayton,18,1/31/2009,F,Tagchat,Charlotte,North Carolina,28215,Ameline,Tolson,Art,704-837-3824,$1162.63
+481,Elfrieda,Joinson,14,5/11/2006,F,Myworks,San Antonio,Texas,78230,Channa,Lethieulier,Art,830-597-2130,$2487.98
+482,Letty,Collister,6,4/23/2009,D,Photobug,San Jose,California,95150,Fiann,Gooddie,Science,408-137-9843,$3318.59
+483,Iseabal,Jankowski,12,3/3/2014,D,Edgewire,Los Angeles,California,90189,Dagny,Harrell,Art,213-446-0777,$1810.96
+484,Sherwynd,Obin,16,1/18/2007,E,Rhyzio,Fort Pierce,Florida,34981,Shaylynn,Lower,History,772-471-0720,$4908.76
+485,Virgina,Kinnerk,8,10/27/2017,A,Quamba,Tulsa,Oklahoma,74184,Jolyn,O'Docherty,History,918-755-0014,$4900.97
+486,Antonio,Vaulkhard,17,11/11/2009,A,Tavu,Oklahoma City,Oklahoma,73157,Ulla,Mitham,History,405-436-2219,$2241.95
+487,Kort,Lovell,9,12/25/2010,D,Gabvine,Springfield,Illinois,62718,Fitz,Jacobsson,Art,217-133-1408,$3472.00
+488,Sukey,Bode,17,2/4/2006,E,Livefish,Washington,District of Columbia,20010,Alasteir,Poll,Math,202-201-4892,$4358.23
+489,Garrott,Ondracek,16,6/24/2011,B,Flashspan,Tulsa,Oklahoma,74170,Zolly,Ryal,Math,918-555-7430,$3654.81
+490,Eryn,Kenrick,10,8/30/2010,E,Zooveo,Long Beach,California,90847,Richy,Paternoster,History,562-505-6486,$4244.83
+491,Gonzalo,Briddock,11,7/3/2012,C,Skibox,Lakeland,Florida,33805,Larine,Bastistini,Art,863-973-4903,$1160.70
+492,Mariel,Blinckhorne,8,7/18/2018,B,Twitterlist,Van Nuys,California,91406,Hannie,Spurdle,Math,805-711-3974,$2703.98
+493,Ward,MacCartney,14,12/25/2008,D,Topdrive,San Antonio,Texas,78220,Consuela,Dauney,History,210-424-5970,$4799.12
+494,Pen,Klosges,14,2/21/2011,C,Voonder,Houston,Texas,77228,Candie,Hailey,English,713-934-1988,$4177.67
+495,Zena,Wilkisson,6,9/23/2006,C,Lajo,Decatur,Illinois,62525,Cherey,Charlo,Science,217-827-9420,$4336.84
+496,Nancee,Cocking,18,11/27/2011,A,JumpXS,Philadelphia,Pennsylvania,19093,Tremain,Fooks,Math,215-641-6997,$4458.94
+497,Huey,Zuanelli,17,7/29/2015,F,Zoombeat,Cincinnati,Ohio,45203,Maxwell,Suttill,History,513-501-1298,$1451.34
+498,Felicity,Spargo,14,12/26/2009,B,Flipopia,Peoria,Arizona,85383,Quinn,Maybey,History,623-805-1971,$2304.97
+499,Nanine,Dilloway,9,12/13/2012,E,Zoonoodle,Chicago,Illinois,60697,Lillis,Lount,Science,312-344-7141,$2892.25
+500,Brooks,Zorzenoni,14,5/6/2015,E,Dabtype,Trenton,New Jersey,8638,Karylin,Steinhammer,Math,609-918-6694,$3985.47
+501,Wadsworth,Dugan,10,6/1/2015,B,Skimia,Shawnee Mission,Kansas,66286,Clerc,Bullcock,English,913-271-5388,$4443.80
+502,Virgina,Brayshaw,11,3/2/2012,F,Flipopia,Baton Rouge,Louisiana,70805,Arlin,Schelle,Math,225-934-5137,$1600.09
+503,Shandy,Stanyland,13,8/31/2016,E,Yoveo,Tampa,Florida,33620,Lesya,Jozefczak,History,813-439-4242,$2020.64
+504,Peyton,Blaycock,14,7/9/2010,B,Divanoodle,Washington,District of Columbia,20470,Maxie,Murname,English,202-305-6320,$2446.97
+505,Emanuele,Reisen,17,10/8/2016,E,Centizu,Philadelphia,Pennsylvania,19146,Marcela,Yearn,English,215-153-2853,$2108.59
+506,Felipe,Cristoforo,18,4/23/2016,E,Trupe,Washington,District of Columbia,20088,Celka,Pickworth,Science,202-157-0403,$4726.27
+507,Mozes,Walenta,6,10/2/2018,A,Thoughtstorm,New York City,New York,10150,Kate,Sidebottom,Math,212-437-0110,$4463.37
+508,Rosalia,Rawll,9,7/7/2015,C,Eabox,Pasadena,California,91131,Candi,Sinderson,Math,626-833-6376,$4017.62
+509,Starr,Blasi,7,7/5/2008,F,Dynabox,Atlanta,Georgia,30358,Giorgi,Shakelade,Math,404-966-1524,$3150.99
+510,Tonie,Plowell,16,2/6/2017,D,Skynoodle,Arlington,Texas,76016,Joletta,Cumberlidge,English,972-535-2008,$2597.93
+511,Carilyn,Stringer,16,1/7/2012,B,Realblab,Myrtle Beach,South Carolina,29579,Mortie,Durran,Math,843-885-1085,$3078.59
+512,Arleyne,Gowman,8,9/27/2007,E,BlogXS,Gaithersburg,Maryland,20883,Bert,McAulay,English,240-285-0168,$4775.12
+513,Linnie,De Metz,11,5/2/2006,C,Shuffledrive,Sacramento,California,94237,Nadya,Ladd,Science,916-848-6805,$3226.59
+514,Sheilakathryn,Chaudrelle,6,7/17/2012,B,Photobug,Pittsburgh,Pennsylvania,15235,Horton,Decent,History,724-389-8587,$4994.69
+515,Dorian,Sawart,17,11/30/2013,B,Skidoo,Hartford,Connecticut,6105,Cesya,Swalteridge,English,203-172-7689,$1978.07
+516,Ofella,Bearne,15,6/9/2013,C,Yakijo,New York City,New York,10155,Hilario,Hexter,Math,646-890-5941,$1371.27
+517,Giacopo,Dalgarno,13,6/30/2012,D,Gigabox,Pittsburgh,Pennsylvania,15210,Jedidiah,Reasun,English,412-717-4524,$3946.99
+518,Palm,Overpool,8,7/24/2007,F,Jaxspan,Wichita,Kansas,67236,Evvy,Capp,Science,316-981-8464,$3796.76
+519,Aila,Fearnley,9,4/12/2014,F,Zooxo,Mount Vernon,New York,10557,Ceil,Creevy,Art,914-470-4299,$1314.49
+520,Niall,Bradnick,10,7/6/2006,B,Jetwire,Fort Lauderdale,Florida,33355,Bartholomew,Croad,English,754-342-9541,$3930.76
+521,Vanna,Bartens,10,11/27/2011,E,Trunyx,Bethesda,Maryland,20816,Emelda,Strickett,Art,240-630-9808,$3222.71
+522,Rustie,Recke,17,2/27/2018,C,Centizu,Great Neck,New York,11024,Filia,Rogerson,Math,516-695-8015,$4278.60
+523,Thibaut,Seakes,6,10/28/2012,F,Viva,Tulsa,Oklahoma,74103,Staffard,Filippucci,English,918-842-5359,$2714.87
+524,Lily,Harriman,6,9/29/2006,D,Meevee,Dallas,Texas,75226,Hope,Tucknott,Math,972-370-6366,$1146.12
+525,Patrick,Blankau,13,8/1/2008,A,Skyndu,Santa Rosa,California,95405,Milicent,Dover,English,707-297-0336,$3723.13
+526,Faye,Gainsburgh,14,7/23/2013,D,Quaxo,Punta Gorda,Florida,33982,Roseanne,Scothron,Art,941-144-8910,$3603.18
+527,Jeanette,Farherty,6,9/28/2017,D,Abata,Chesapeake,Virginia,23324,Anastasia,Heartfield,Art,757-761-4213,$1715.12
+528,Hieronymus,Neame,18,3/27/2008,C,Feednation,El Paso,Texas,88525,Henry,Rustman,English,915-785-7135,$1738.12
+529,Hetty,Buckleigh,14,2/28/2010,E,Kimia,Migrate,Kentucky,41905,Dyna,Dumbelton,Art,502-753-6896,$1274.73
+530,Dotti,Hallowes,12,9/28/2017,D,Yacero,Huntington,West Virginia,25716,Henrik,Dobbing,Art,304-791-4155,$2291.31
+531,Christy,Antosik,11,11/26/2008,B,Quimba,Oklahoma City,Oklahoma,73124,Fairfax,Grayland,English,405-835-1550,$2396.93
+532,Drona,Casella,10,9/30/2008,C,Kaymbo,Reston,Virginia,20195,Rabi,Giovannini,Math,703-622-3146,$1474.73
+533,Ichabod,Offill,16,8/24/2011,A,Twitterwire,Aurora,Colorado,80015,Cassy,Darlington,Science,303-794-9304,$2825.85
+534,Penny,Ivashinnikov,11,10/4/2006,A,LiveZ,Chicago,Illinois,60646,Mord,Grzelak,History,312-160-7640,$3168.57
+535,Neala,Sands-Allan,8,3/30/2007,E,Mynte,Fort Wayne,Indiana,46852,Dawna,Mowsdell,Science,260-517-0169,$2394.54
+536,Alyce,Bartolomeo,6,3/19/2007,D,Flashpoint,Lubbock,Texas,79452,Egor,Birkmyr,Math,806-122-9038,$1294.79
+537,Pinchas,Thomton,17,3/20/2015,F,Blogpad,Terre Haute,Indiana,47812,Dallas,Wimbury,History,812-356-1563,$3947.79
+538,Ron,Boughtwood,10,12/18/2014,E,Realcube,Spring,Texas,77388,Tommy,Soal,Math,713-228-3985,$3869.08
+539,Archy,Cullen,14,2/2/2015,B,Flashspan,Jackson,Mississippi,39236,Miller,Padmore,Math,601-401-2892,$2633.03
+540,Shelly,Dackombe,12,8/19/2014,D,Dynabox,Houston,Texas,77035,Jocko,McCrillis,Science,281-546-9803,$1264.41
+541,Lauren,McCrainor,14,12/11/2011,F,Aimbo,Oklahoma City,Oklahoma,73104,Rockie,de Clercq,Art,405-762-5608,$4806.30
+542,Emogene,Addinall,13,11/16/2009,B,Camimbo,Anaheim,California,92805,Jenni,Hailwood,Science,562-703-5443,$2089.89
+543,Lindsey,Strasse,17,5/3/2018,E,Blogtag,Kissimmee,Florida,34745,Carole,Meddings,Science,407-617-6409,$1632.09
+544,Weidar,Schaumaker,11,6/2/2011,A,Bubbletube,Saint Louis,Missouri,63169,Rolfe,Lantry,Math,314-369-3982,$4716.98
+545,Lucia,Lidington,8,2/16/2010,A,Kazu,Waterbury,Connecticut,6726,Latia,Tregunnah,English,203-399-6207,$2658.00
+546,Patrizius,Dowyer,7,4/16/2017,C,Eadel,Pasadena,California,91199,Kata,McPhilemy,Science,626-213-4781,$1862.77
+547,Hilde,Akhurst,16,11/11/2007,F,Dabshots,Des Moines,Iowa,50315,Henry,Bertomeu,Art,641-149-6721,$4223.81
+548,Vail,Burgyn,8,12/25/2015,A,JumpXS,Dallas,Texas,75265,Griselda,Coronado,English,214-708-5120,$2818.36
+549,Hector,Plaster,13,6/1/2010,A,Livepath,Amarillo,Texas,79159,Imogen,McQuade,History,806-555-1902,$2193.82
+550,Lea,Guiden,12,10/14/2008,D,DabZ,Pittsburgh,Pennsylvania,15274,Tiena,Michelet,English,412-483-0057,$4907.19
+551,Malinda,Dressel,13,9/28/2017,E,Feednation,Los Angeles,California,90076,Andie,Blesli,Science,323-150-9737,$1462.53
+552,Rochell,Apfel,10,7/5/2018,D,Ooba,Lakeland,Florida,33805,Galina,Haggerstone,English,863-541-7354,$4129.04
+553,Brynne,McGown,11,12/19/2013,A,Topicshots,Kansas City,Missouri,64101,Zak,Upfold,Math,816-537-0302,$2643.84
+554,Margarete,Dann,11,12/16/2017,B,Photobug,New York City,New York,10292,Hertha,Hazley,Science,212-431-1789,$2158.04
+555,Terrel,Musla,15,6/18/2016,B,Wikido,Katy,Texas,77493,Eden,Wesgate,Math,832-748-0470,$4273.38
+556,Chrissie,Perkinson,17,2/9/2010,D,Babbleblab,Norman,Oklahoma,73071,Wilie,Bohlin,English,405-838-0719,$4647.11
+557,Dov,Barling,6,5/12/2013,C,Skippad,San Bernardino,California,92415,Ola,Moakes,Math,760-868-1986,$4850.95
+558,Man,Husk,12,4/3/2010,E,Digitube,Fort Lauderdale,Florida,33345,Collie,Cargen,Art,754-177-2003,$3480.79
+559,Reggy,Linge,7,2/26/2018,C,Topicstorm,Dayton,Ohio,45414,Berta,Rymer,History,937-993-3262,$4069.28
+560,Redd,Blatchford,18,8/21/2012,F,Meembee,Tucson,Arizona,85705,Maxim,Pyle,Art,520-286-8045,$1999.26
+561,Othello,Meere,12,4/11/2009,B,Skimia,Phoenix,Arizona,85072,Elton,Hassin,History,602-768-6059,$3770.64
+562,Janela,Tomaino,9,1/18/2006,F,Eare,Idaho Falls,Idaho,83405,Maurizia,Martignoni,History,208-958-6209,$3937.10
+563,Morgan,Beatty,8,9/11/2010,A,Mycat,Huntington,West Virginia,25770,Alena,Geldert,English,304-105-2479,$4962.16
+564,Fleming,Palfrey,10,9/27/2011,A,Yacero,Arlington,Virginia,22217,Claybourne,Earle,Art,571-726-5931,$2828.12
+565,Brigg,Lghan,9,8/2/2008,C,Skibox,Houston,Texas,77276,Stephen,Icom,Science,713-873-6876,$4819.15
+566,Aubine,Llywarch,15,2/12/2016,D,Voomm,Iowa City,Iowa,52245,Peyter,Storer,Math,319-261-3968,$2150.79
+567,Ema,Nation,11,6/10/2010,B,Zoovu,Rockville,Maryland,20851,Birk,Wilcot,History,240-483-7861,$3897.30
+568,Angeline,Spiniello,14,7/9/2012,D,Tagchat,Topeka,Kansas,66629,Weidar,Bartholat,History,785-503-8416,$2327.50
+569,Esteban,Dunlop,12,8/20/2010,F,Skynoodle,Saint Louis,Missouri,63131,Archie,Boyn,English,636-911-0428,$1418.90
+570,Kate,Gainsford,18,11/22/2017,E,Pixope,Fayetteville,North Carolina,28314,Pearline,Coldbreath,History,910-567-4072,$3892.00
+571,Clerc,Coote,11,7/9/2006,D,Oloo,Miami,Florida,33283,Emile,Devigne,History,305-732-8644,$2074.52
+572,Erwin,Glover,12,1/3/2015,A,Zoovu,Miami,Florida,33124,Alyosha,Noseworthy,Math,786-226-9546,$3720.94
+573,Aldon,De Vaan,12,6/16/2010,F,Fanoodle,Des Moines,Iowa,50310,Godwin,Brodhead,Science,515-928-1679,$2732.26
+574,Amble,Cudiff,8,2/11/2010,B,Browsezoom,Kansas City,Missouri,64125,Kary,Wardel,Math,816-596-8080,$4752.18
+575,Kristy,Rycroft,14,2/12/2014,F,Zoombeat,Fort Worth,Texas,76147,Devon,Marl,Art,817-835-5693,$1880.57
+576,Reine,Newens,9,10/12/2013,D,Feedbug,Evansville,Indiana,47712,Bernette,Mynett,Science,812-650-5619,$2734.33
+577,Frederick,Hardes,14,11/22/2013,A,InnoZ,Sacramento,California,95894,Marina,Sellor,Science,916-267-6691,$2133.83
+578,Kevina,Brito,7,10/20/2015,F,Kwimbee,New Orleans,Louisiana,70187,Chucho,Sarle,English,504-688-4443,$1505.62
+579,Judye,Rowan,12,9/13/2006,B,Jabberbean,Arlington,Virginia,22205,Zebedee,Burchfield,History,571-229-1244,$1141.92
+580,Roda,Willshee,17,6/30/2013,D,Rhyzio,Fort Lauderdale,Florida,33330,Robena,Vogele,English,954-439-0253,$4577.67
+581,Rich,Frisel,11,7/11/2016,E,Twitternation,Panama City,Florida,32412,Ernesta,Haill,Math,850-809-8600,$3583.04
+582,Michaeline,Anstis,11,7/29/2015,D,Devbug,Tampa,Florida,33686,Kelly,Vina,Science,813-213-9356,$2921.87
+583,Christiana,Eccleston,16,2/18/2006,B,Tagpad,Albuquerque,New Mexico,87140,Briney,Johnsey,Art,505-992-9125,$1799.29
+584,Elane,Rudman,18,1/10/2018,D,Fanoodle,Roanoke,Virginia,24048,Fanni,Cattanach,Science,540-215-7868,$3413.82
+585,Tamas,Reason,10,11/4/2013,E,Photospace,New Orleans,Louisiana,70149,Emelina,Duffet,History,504-619-7488,$4215.01
+586,Karlyn,Brampton,6,3/31/2008,E,Blogtags,Akron,Ohio,44315,Meryl,Strahan,Math,330-104-6287,$1203.56
+587,Flory,Bartelet,12,11/4/2017,F,Tanoodle,Brooklyn,New York,11220,Gusti,Gjerde,Art,718-831-8812,$2004.34
+588,Vera,Zelley,8,12/9/2011,C,Flipstorm,Toledo,Ohio,43656,Karalynn,Oliver,Art,419-697-9152,$3583.38
+589,Bibbye,Paoli,17,12/29/2009,B,Yombu,Richmond,Virginia,23260,Nate,Cosby,Art,804-463-2322,$3501.02
+590,Elfrieda,Poluzzi,14,7/21/2013,D,Trudeo,Lafayette,Louisiana,70593,Morgun,Coucha,Science,337-862-9657,$3819.55
+591,Heidie,Menary,15,11/27/2010,A,Voonder,Albuquerque,New Mexico,87190,Carena,Nottingam,English,505-624-0508,$1891.73
+592,Keri,Hallt,17,4/20/2015,A,Jaxworks,Colorado Springs,Colorado,80935,Christean,Rawkesby,Art,719-501-1965,$1027.47
+593,Rozanne,Caldero,7,3/20/2013,B,Meeveo,Phoenix,Arizona,85020,Ruthe,Dreschler,Art,602-507-8724,$1555.97
+594,Fred,Mc Faul,13,10/11/2012,C,Flipstorm,Chicago,Illinois,60657,Lenka,Schimank,English,312-333-6980,$4127.42
+595,Nestor,McCrossan,7,9/13/2012,C,Avamba,Tacoma,Washington,98442,Noell,Pell,Math,253-207-9678,$4539.64
+596,Nick,Brooksbie,13,1/15/2012,C,Jazzy,Wichita,Kansas,67205,Malvina,Davidman,English,316-850-3332,$4063.75
+597,Hans,Tureville,9,1/29/2009,E,Youbridge,Newark,New Jersey,7188,Gregor,Toffts,Art,862-836-2299,$1803.62
+598,Brandi,Thornbarrow,7,6/8/2010,F,Zoomdog,Spring Hill,Florida,34611,Hugo,Leathem,Math,352-329-3397,$1850.39
+599,Corbie,Bengtsen,10,12/27/2008,C,Fliptune,North Las Vegas,Nevada,89087,Aleda,Cardinal,Science,702-880-6634,$2962.89
+600,Toinette,Benoit,10,7/15/2006,A,Meejo,Albuquerque,New Mexico,87180,Lorens,Codrington,English,505-531-6861,$1330.83
+601,Orlando,Storrock,14,4/17/2008,B,Realcube,Stockton,California,95219,Aldwin,Orton,Art,209-447-4690,$4910.30
+602,Jarrett,Zamorrano,13,3/11/2012,F,Skyble,San Jose,California,95138,Sonni,Brookes,Art,408-339-9190,$2457.63
+603,Herschel,Woodrooffe,7,2/5/2014,E,Agivu,Springfield,Illinois,62723,Emmett,Wickey,History,217-585-5752,$3564.95
+604,Byrom,Raff,11,7/16/2012,D,Meezzy,Anaheim,California,92812,Jacinthe,Titterington,Math,714-877-0365,$2331.05
+605,Thorin,Puttan,13,10/5/2010,F,Demivee,Seattle,Washington,98185,Chico,Dibbert,Math,206-127-3810,$1291.26
+606,Shem,Marsy,9,4/26/2007,D,Eire,Harrisburg,Pennsylvania,17121,Fabien,Robillart,English,717-147-3357,$4272.01
+607,Dyana,Swanbourne,13,11/13/2017,A,Browsebug,Boca Raton,Florida,33499,Kendricks,Treleven,History,561-588-7349,$3682.68
+608,Gunilla,Nettles,18,6/29/2008,F,Babblestorm,Garden Grove,California,92645,Robbie,Mattin,History,714-667-6772,$4929.40
+609,Gustie,Burdell,18,3/13/2015,D,Browseblab,Austin,Texas,78726,Vernice,de Keyser,Art,512-275-7871,$4102.71
+610,Breanne,Chrisp,6,8/25/2010,E,Thoughtbeat,Portland,Oregon,97201,Yovonnda,Aloshikin,Math,971-458-8691,$2353.59
+611,Gordy,Heggs,13,7/13/2010,A,Gigazoom,Dayton,Ohio,45470,Blane,Learmont,Art,937-684-4483,$4328.19
+612,Wash,Lune,11,8/16/2018,E,Podcat,Washington,District of Columbia,20016,Thor,Kettlestringe,English,202-641-4127,$4237.77
+613,Thaddeus,Casford,9,1/27/2011,F,Buzzdog,Sioux City,Iowa,51110,Avigdor,Cowpland,History,712-639-6084,$2553.74
+614,Naoma,Mascall,8,10/10/2006,F,Thoughtworks,Omaha,Nebraska,68197,Erda,Grogor,History,402-869-1341,$4028.91
+615,Barnabe,Goggen,6,11/16/2007,F,Browsebug,Newark,New Jersey,7104,Norbie,Stanford,English,973-539-8588,$4660.98
+616,Salomon,Sudron,6,8/4/2016,E,Yadel,Corpus Christi,Texas,78415,Melisent,Bucktharp,Art,361-877-4462,$2249.65
+617,Stephi,Mithan,14,11/28/2008,F,Wikivu,El Paso,Texas,88541,Roseann,Boow,Art,915-706-3664,$3140.57
+618,Panchito,Ambrosio,8,2/12/2006,B,Skajo,Louisville,Kentucky,40280,Danie,Magister,Science,502-137-9063,$2407.58
+619,Essie,Hadingham,15,11/2/2014,A,Zoomzone,Washington,District of Columbia,20397,Linoel,Oldacre,Science,202-980-2618,$4459.13
+620,Leontyne,Prangley,18,8/20/2010,C,Topicblab,Austin,Texas,78769,Alistair,Maty,Science,512-586-6190,$2534.56
+621,Hashim,McKirton,11,6/5/2009,C,Yakitri,South Bend,Indiana,46620,Sandra,Dawtry,Science,574-338-6217,$1227.79
+622,Adeline,Jewel,12,3/30/2007,A,Vidoo,Naples,Florida,33963,Hurleigh,Oakenfull,English,239-438-1973,$3757.90
+623,Concettina,Capitano,11,12/29/2017,B,Voonix,Richmond,Virginia,23228,Charissa,Desborough,History,804-797-8336,$2285.69
+624,Holden,Huitt,9,11/14/2017,E,Kwimbee,Norwalk,Connecticut,6859,Cassandry,Limbrick,English,203-892-7829,$1501.86
+625,Fidole,Player,12,2/29/2008,A,Voonte,Fresno,California,93740,Milissent,Tilney,Math,559-529-7582,$1383.23
+626,Nathan,Erett,13,12/30/2010,A,Dynabox,Northridge,California,91328,Elka,Spadeck,English,818-473-4642,$3569.15
+627,Belinda,McPartlin,9,2/24/2008,C,Fadeo,Fort Pierce,Florida,34981,Amii,Colcutt,Math,772-495-7530,$4503.52
+628,Sheilakathryn,Bendall,14,5/7/2017,F,Omba,Pasadena,Texas,77505,Trueman,Boniface,History,281-775-4308,$1861.79
+629,Gordan,Dempster,9,1/19/2016,C,Jatri,Littleton,Colorado,80126,Lucio,Beane,History,720-398-0352,$4537.29
+630,Breena,Klimuk,11,9/26/2011,C,Shufflebeat,Tyler,Texas,75799,Zoe,Lithgow,Art,903-766-8195,$1231.83
+631,Otis,Harflete,11,6/14/2010,A,Skipstorm,Birmingham,Alabama,35205,Dixie,Rewan,Science,205-413-9737,$1417.08
+632,Billye,Fish,12,5/10/2010,A,Devshare,Birmingham,Alabama,35231,Justin,Beevors,Science,205-418-9175,$1108.21
+633,Art,Hartin,9,3/7/2007,A,Feedfire,Omaha,Nebraska,68124,Malorie,Dunbar,English,402-544-5554,$2610.16
+634,Hardy,Dugald,6,6/25/2014,A,Yakijo,Pittsburgh,Pennsylvania,15274,Shaine,Brearley,Math,412-901-8124,$1386.57
+635,Urban,Targe,18,6/24/2008,D,Jaloo,Seattle,Washington,98158,Leisha,O'Scollee,Art,360-722-0276,$3295.83
+636,Merell,Maddison,10,2/28/2013,B,Photobean,Raleigh,North Carolina,27610,Britte,Bellison,Math,919-252-6141,$2114.38
+637,Danny,Brownsett,7,10/13/2012,B,Yotz,Long Beach,California,90840,Ardeen,Winson,Science,562-697-0999,$3602.39
+638,Carmon,Hurdis,9,7/15/2013,B,Digitube,Billings,Montana,59105,Sherwynd,Blaszkiewicz,Science,406-151-7558,$1139.31
+639,Wade,Dodell,9,3/11/2015,F,Meevee,South Bend,Indiana,46634,Vince,Pancoast,History,574-464-3491,$1132.03
+640,Levi,O'Dulchonta,13,8/31/2016,C,Kamba,Gulfport,Mississippi,39505,Ely,McIlhatton,Math,228-187-2019,$4582.36
+641,Ryon,Gabbot,11,10/1/2014,B,Oloo,Jersey City,New Jersey,7310,Zitella,Averay,Math,201-148-6233,$1589.97
+642,Edna,Dank,14,1/7/2011,F,Dabfeed,Phoenix,Arizona,85077,Orelle,Agnew,Art,602-175-1060,$3302.05
+643,Sher,Trickey,6,10/15/2007,C,Tagtune,Indianapolis,Indiana,46239,Justis,Medlar,English,317-747-4364,$4558.65
+644,Deonne,Atrill,18,5/1/2008,A,Gabvine,Macon,Georgia,31210,Dyanna,Troy,Science,478-582-5208,$1754.94
+645,Madelina,Dagleas,17,1/13/2010,E,Zooxo,Pittsburgh,Pennsylvania,15220,Shaine,Vickers,English,412-664-1933,$1427.22
+646,Natty,Parley,8,2/8/2018,F,Jaxnation,Houston,Texas,77281,Cliff,Reboul,Science,713-652-5291,$3250.69
+647,Kirbee,Niezen,15,7/31/2006,F,Fliptune,Columbia,South Carolina,29208,Danna,Bryns,Math,803-315-8505,$4021.08
+648,Durant,Raiker,17,2/4/2013,F,Tagcat,Salt Lake City,Utah,84110,Trent,Petruk,History,801-945-2131,$1415.56
+649,Madelon,Peyes,10,4/24/2006,C,Jayo,Fredericksburg,Virginia,22405,Kristi,Poulgreen,Math,540-551-9876,$4382.17
+650,Matthew,Dagger,6,4/21/2017,D,Oyoyo,San Jose,California,95138,Caitlin,Sleet,Art,408-256-2181,$2966.88
+651,Ringo,Broady,18,11/20/2018,F,Jatri,Toledo,Ohio,43699,Vally,Sally,History,419-742-4647,$4122.83
+652,Coop,Fleis,16,1/8/2008,C,Leexo,Corpus Christi,Texas,78405,Angelique,Beechcraft,English,361-272-2116,$2972.14
+653,Faustine,Chittey,11,8/14/2007,E,Jetpulse,Carol Stream,Illinois,60158,Orren,Adel,English,309-788-6734,$1108.90
+654,Ella,Gamil,14,11/27/2008,B,Skippad,Baltimore,Maryland,21282,Randall,Darnody,History,410-663-2330,$4405.13
+655,Randolf,Golden,17,12/8/2015,A,Skajo,Huntsville,Alabama,35815,Gene,Wykes,Art,256-809-3894,$3960.36
+656,Tiphany,Bonney,6,8/8/2010,B,Wordify,Denver,Colorado,80235,Herrick,Fludgate,History,720-975-0960,$2978.40
+657,Kristos,Mebes,6,6/22/2012,E,Realbridge,Jackson,Mississippi,39216,Ollie,De Ambrosi,English,601-473-9647,$4283.32
+658,Westbrooke,Diment,8,1/21/2006,B,Trunyx,Charlotte,North Carolina,28284,Genvieve,Trevino,Math,704-612-8989,$2942.81
+659,Harbert,Toyne,12,3/15/2010,A,Livepath,Austin,Texas,78721,Vitoria,Fusedale,Art,512-255-5112,$4839.82
+660,Kelly,Dillingstone,9,8/5/2013,D,Meejo,Minneapolis,Minnesota,55458,Titus,Selvey,Math,612-880-2443,$2603.25
+661,Urbanus,Sallenger,9,6/30/2006,F,Devshare,Syracuse,New York,13205,Karel,Hazael,Art,315-149-8435,$2848.89
+662,Teddie,Hartley,17,7/21/2011,A,Wikivu,El Paso,Texas,79940,Misha,Matherson,Science,915-527-8581,$4934.85
+663,Waldo,Geere,14,7/26/2013,D,Yotz,Colorado Springs,Colorado,80945,Colline,De Ruel,Science,719-288-8005,$2221.54
+664,Marti,Mattacks,6,2/18/2014,C,Latz,Newark,Delaware,19714,Elsbeth,Thick,English,302-582-0606,$4983.16
+665,Fairlie,Barrowcliff,16,8/5/2009,A,Photospace,Greenville,South Carolina,29605,Annecorinne,Nicholas,Math,864-146-8804,$3015.56
+666,Murielle,Gallemore,13,12/15/2017,B,Rhynyx,New Orleans,Louisiana,70187,Traci,Espinola,Math,504-994-9589,$3368.29
+667,Abbe,Drivers,6,6/17/2012,F,Flipbug,Henderson,Nevada,89012,Clio,Weins,English,702-557-0890,$4616.18
+668,Dacy,Bierton,12,9/9/2007,F,Katz,Des Moines,Iowa,50393,Philippe,Mordan,History,515-669-1819,$3130.29
+669,Richie,Rizzardini,8,11/21/2014,E,Quatz,Springfield,Illinois,62723,Dasya,Hamsley,Art,217-362-7527,$3329.42
+670,Herschel,Thurby,16,7/3/2006,C,Fiveclub,Largo,Florida,34643,Oberon,Dumbelton,English,727-823-2170,$2518.28
+671,Rudy,Burfitt,10,12/31/2016,C,Quaxo,Torrance,California,90510,Kathy,Cawsey,Art,818-879-8433,$3599.73
+672,Nicolis,Kitchaside,16,10/7/2008,C,Nlounge,Jersey City,New Jersey,7305,Desirae,Artindale,Art,201-273-9039,$2438.65
+673,Cris,Merigeau,6,6/22/2016,D,Topicware,Elmira,New York,14905,Gradeigh,Pelosi,Art,607-172-9835,$4015.43
+674,Alexis,Jiroudek,10,12/11/2011,C,Pixoboo,Scottsdale,Arizona,85260,Vicki,Blondel,History,623-653-2492,$3932.79
+675,Beverlie,Sieur,9,2/23/2011,A,Cogilith,Greensboro,North Carolina,27425,Morganne,Frowen,Art,336-929-8236,$4087.09
+676,Gerladina,Iacomelli,13,1/7/2010,D,Jaxnation,Lexington,Kentucky,40581,Adam,Abrahams,Science,859-821-6488,$4040.99
+677,Johnette,Daspar,7,4/9/2014,B,Kwinu,Winston Salem,North Carolina,27110,Sebastien,Correa,Science,336-865-6790,$3435.79
+678,Hilliary,Wabb,9,8/28/2008,F,Devpoint,Austin,Texas,78769,Dulsea,Willment,Math,512-591-2603,$2810.48
+679,Tabby,Acott,12,7/6/2006,A,Mymm,Portland,Oregon,97271,Cora,Curtiss,History,971-943-5891,$2871.13
+680,Candie,Sweetlove,13,7/2/2006,E,Rhyzio,Washington,District of Columbia,20525,Katrina,Mundell,English,202-617-2604,$3745.05
+681,Zollie,Reynoldson,16,4/29/2011,F,Rhyzio,San Francisco,California,94137,Caitlin,Faithfull,Art,415-417-3157,$4509.83
+682,Carmina,Guerre,17,4/7/2016,E,Oyoloo,Bradenton,Florida,34282,Jennie,Goodered,Math,941-124-2275,$4963.28
+683,Wynnie,Pays,14,3/12/2016,E,Roombo,Columbus,Georgia,31904,Valli,Isles,Math,706-431-9571,$4907.76
+684,Etan,Dudmarsh,11,7/19/2008,F,Brightdog,Louisville,Kentucky,40220,Odie,Artin,Science,502-968-7639,$2234.60
+685,Lynsey,Wozencroft,6,6/10/2011,C,Photojam,Detroit,Michigan,48295,Gavan,Awmack,Math,313-227-6733,$1121.70
+686,Celesta,Petruk,10,9/8/2013,C,Pixoboo,Kansas City,Kansas,66112,Alister,Painten,English,913-968-6271,$4840.40
+687,Waverley,Henrys,14,6/4/2012,F,Aimbu,Torrance,California,90505,Virginia,MacCaig,Math,310-150-2383,$2979.78
+688,Alfy,Seedman,9,7/31/2016,E,Voolia,Charleston,South Carolina,29416,Penn,Henlon,Art,843-384-8854,$3983.27
+689,Nanci,Brecken,16,2/24/2007,B,Skimia,Detroit,Michigan,48206,Sigvard,Mattocks,History,313-799-1280,$3864.82
+690,Demetris,Batie,8,11/12/2006,E,Oyondu,Ventura,California,93005,Douglas,Emmanueli,Science,805-867-5685,$2908.65
+691,Bayard,Brunon,13,8/12/2007,B,Tavu,Miami,Florida,33245,Matthus,Ruggen,Science,786-756-0397,$2581.83
+692,Adolph,Shearston,13,3/9/2017,A,Flashspan,Amarillo,Texas,79182,Sherwood,Ridsdell,Science,806-664-7852,$1579.93
+693,Roi,Haygreen,18,10/12/2017,F,Geba,New York City,New York,10079,Jeannine,Vasyanin,English,212-171-3980,$3768.83
+694,Llewellyn,Smorthwaite,11,9/20/2014,B,Avavee,Reno,Nevada,89510,Carissa,Kehri,English,775-525-7099,$3509.27
+695,Siana,Dowderswell,14,9/16/2018,C,Yotz,Pompano Beach,Florida,33069,Arleen,Kegan,Art,754-527-8523,$1910.51
+696,Sam,Echlin,9,6/7/2011,C,Buzzdog,Greenville,South Carolina,29610,Wenona,Gale,Math,864-805-0525,$1442.27
+697,Ceciley,Wrench,12,9/16/2011,D,Kazio,Staten Island,New York,10310,Roobbie,Riseborough,History,718-115-0153,$4909.34
+698,Phaidra,Snoxall,16,4/18/2010,F,Jamia,Orlando,Florida,32868,Dari,Gillyett,Science,407-669-1144,$1285.21
+699,Cinnamon,Sollner,15,7/28/2007,A,Jaloo,Carson City,Nevada,89706,Penny,Boughey,History,775-684-1741,$4336.95
+700,Barbey,Dykas,12,6/15/2010,F,Vinder,Jackson,Mississippi,39216,Hilton,Loines,Art,601-468-3476,$3769.38
+701,Sharai,Rutherforth,8,7/14/2014,A,Gigashots,Kansas City,Missouri,64142,Bren,Bodycombe,History,816-414-4223,$4916.41
+702,Halsy,Bigham,8,4/30/2012,B,Photobug,Denver,Colorado,80217,Conroy,Wands,Math,303-501-3439,$3475.16
+703,Delphinia,Rimell,11,1/16/2015,C,Oodoo,El Paso,Texas,79968,Maia,Dowber,Art,915-627-2285,$2719.66
+704,Adrian,Bassam,13,11/24/2014,E,Skimia,North Hollywood,California,91616,Briana,Fontanet,Art,213-875-2724,$2435.70
+705,Dulsea,Lambswood,13,2/11/2018,B,Skidoo,Brooklyn,New York,11205,Atalanta,Wintle,Art,646-728-4769,$1463.16
+706,Vale,Layson,9,4/30/2010,F,Quamba,Odessa,Texas,79769,Dierdre,Gwilliams,History,432-850-3474,$4042.81
+707,Carlie,Kingstne,18,5/15/2014,F,Vitz,Columbia,Missouri,65211,Latisha,Whorton,Science,573-917-1517,$4576.58
+708,Leslie,Schlagh,18,3/17/2011,F,Edgepulse,El Paso,Texas,88569,Cris,Scotson,Science,915-415-5438,$1482.64
+709,Genovera,Ubee,16,3/1/2013,B,Voonyx,Albuquerque,New Mexico,87140,Olivie,Parman,English,505-144-3067,$1162.39
+710,Cullen,Sutch,14,7/6/2009,F,Twimm,Sacramento,California,94273,Pedro,Geikie,Science,916-328-6565,$3072.38
+711,Gare,Addess,15,5/24/2017,B,Trilith,Washington,District of Columbia,20404,Mikol,Botwright,Math,202-940-7619,$3545.55
+712,Josefa,Jenking,7,8/1/2011,A,Buzzster,Fresno,California,93715,Brockie,Conechie,History,559-599-1296,$2301.63
+713,Trueman,Fallon,17,5/23/2017,A,Riffpath,Springfield,Illinois,62794,Cori,Penhallurick,History,217-441-9513,$2811.30
+714,Guenna,Riddel,13,9/16/2013,F,Meetz,North Las Vegas,Nevada,89087,Emlynn,Goodfellowe,English,702-508-0041,$2361.24
+715,Horten,Killiner,16,10/28/2015,D,Divape,Raleigh,North Carolina,27690,Turner,Bridgnell,Science,919-755-9343,$4817.05
+716,Darin,Royall,14,8/1/2009,C,Eayo,Los Angeles,California,90035,Lina,Lakenden,Science,323-146-4791,$1490.51
+717,Letti,Fawbert,9,8/20/2012,E,Meembee,Tampa,Florida,33633,Elmer,Blose,History,813-972-1646,$2756.67
+718,Eli,Renachowski,6,6/15/2008,A,Flipstorm,Rochester,New York,14609,Saul,Shadbolt,Math,585-580-9307,$3045.84
+719,Nessa,Strettle,11,10/23/2011,E,Realcube,Harrisburg,Pennsylvania,17110,Sybila,Pelz,English,717-223-7933,$4646.87
+720,Bradley,Heinreich,14,11/6/2011,B,Gigashots,Lansing,Michigan,48919,Nelie,McParlin,History,517-655-6543,$4860.41
+721,Ailyn,Lemmers,8,10/18/2013,B,Trudoo,Tampa,Florida,33605,Arin,Goodhall,Art,813-541-0104,$1890.36
+722,Yoshiko,Tipple,8,5/7/2013,D,InnoZ,Anchorage,Alaska,99599,Guenna,Asprey,English,907-302-6065,$2651.45
+723,Ralph,Bassett,6,2/22/2008,A,Zooxo,New York City,New York,10019,Suki,Pirazzi,Math,718-821-0538,$3108.72
+724,Allan,Statham,14,4/23/2009,D,Lazz,Minneapolis,Minnesota,55487,Iggy,Lingley,English,612-366-0626,$2008.21
+725,Dannye,Garfitt,7,12/22/2012,C,Edgewire,Austin,Texas,78754,Hanni,Godrich,Art,512-558-8071,$4287.53
+726,Silas,Jutson,7,1/19/2010,E,Fliptune,Shreveport,Louisiana,71130,Ches,Schubert,Science,318-611-1083,$3641.84
+727,Brina,Pembery,12,12/18/2015,A,Mynte,Buffalo,New York,14210,Ollie,Wyeld,Art,716-671-8393,$2373.68
+728,Vivie,MacDermott,18,11/10/2013,B,Voonder,Spring,Texas,77388,Althea,Keddle,History,713-211-6485,$1669.72
+729,Hollis,Twitching,13,1/18/2016,F,Demivee,Ocala,Florida,34479,Harley,Ianilli,Math,352-767-0090,$2543.73
+730,Tisha,Gale,10,6/9/2015,D,Oba,Eugene,Oregon,97405,Nelli,Osipov,Science,541-586-3031,$2542.03
+731,Waldon,Guppey,9,5/11/2006,B,Rhybox,Great Neck,New York,11024,Elly,Aldie,History,516-335-3579,$4595.69
+732,Price,Larciere,15,3/14/2008,D,Voomm,Minneapolis,Minnesota,55412,Lesley,Hellen,History,763-381-1208,$3320.22
+733,Maxi,Christoffersen,12,7/30/2012,E,Devpulse,Cedar Rapids,Iowa,52405,Shurwood,Arnholtz,English,319-183-7808,$1647.04
+734,Sianna,Fasler,17,10/16/2009,B,Shufflester,Charlotte,North Carolina,28299,Tandy,Vynehall,Math,704-558-9615,$4595.19
+735,Lucian,Jablonski,13,4/17/2017,D,Flipstorm,Melbourne,Florida,32941,Johnnie,Digan,Science,321-359-4953,$1042.15
+736,Felita,Fairtlough,15,9/2/2013,C,Meevee,Oklahoma City,Oklahoma,73190,Chrissy,Podd,English,405-876-7751,$3360.79
+737,Remus,Giddons,10,4/10/2015,E,Abata,Panama City,Florida,32405,Herc,Bethune,Art,850-831-8967,$2484.67
+738,Lizabeth,Kibbye,16,4/29/2018,B,Kamba,Springfield,Illinois,62794,Elfreda,Antat,English,217-430-9615,$3706.25
+739,Coop,Solomonides,15,7/24/2015,D,Topicware,Albuquerque,New Mexico,87110,Kelila,Ridolfi,Math,505-720-4536,$1847.43
+740,Nick,Crossdale,13,3/24/2007,C,Skimia,Evansville,Indiana,47747,Yorker,Monkton,History,812-843-3171,$2614.99
+741,Anson,Raulston,12,10/8/2018,F,Skinder,Savannah,Georgia,31410,Hally,Tugman,History,912-773-3829,$2328.49
+742,Jammie,De Freyne,6,1/16/2014,B,Blogtag,Boise,Idaho,83705,Chrisy,Featley,Art,208-526-6471,$1970.97
+743,Osgood,Bernli,9,4/8/2018,F,Mycat,Torrance,California,90505,Urbain,Hansod,Art,310-829-8620,$2087.33
+744,Yolanthe,Inman,14,1/30/2009,B,Trupe,Shreveport,Louisiana,71166,Pebrook,Torrese,Math,318-368-6496,$1757.96
+745,Terrye,Kinahan,10,4/18/2010,B,Kamba,Atlanta,Georgia,30306,Devlen,Felipe,Art,404-502-4137,$2086.43
+746,Elysha,Sussex,8,10/28/2018,A,Eamia,Reno,Nevada,89510,Davita,Marshalleck,History,775-697-7238,$4416.70
+747,Sibilla,Newland,12,12/6/2017,C,Rooxo,Sunnyvale,California,94089,Forrester,Vidineev,Science,650-341-4782,$4944.98
+748,Whitney,Butterworth,9,9/9/2010,F,Blogtag,Boise,Idaho,83711,Alfons,Daout,History,208-911-8662,$1685.01
+749,Whitney,Cossons,14,3/7/2009,F,Fanoodle,Greenville,South Carolina,29610,Alessandro,Raittie,English,864-662-3442,$4787.98
+750,Brigitte,Usherwood,7,12/25/2018,A,Tagfeed,Virginia Beach,Virginia,23454,Loydie,Bemment,English,757-418-5733,$1101.20
+751,Rhodia,Piotr,16,1/20/2013,E,Voonder,Dallas,Texas,75205,Leonelle,Robertsson,Math,469-392-6010,$4458.58
+752,Tommie,Bernholt,8,10/4/2012,A,Rooxo,Colorado Springs,Colorado,80930,Clayborn,Hanaford,Science,719-747-5967,$3763.68
+753,Wolf,Callam,8,4/18/2014,B,Oba,Evansville,Indiana,47712,Nelly,Freckleton,Art,812-509-4471,$4759.34
+754,Gail,Andreaccio,14,10/23/2012,D,Meeveo,Seattle,Washington,98175,Collette,Moncarr,English,206-535-3353,$3861.23
+755,Courtnay,Scardifeild,10,11/8/2013,A,Buzzshare,Durham,North Carolina,27710,Warden,Tesoe,History,919-488-8193,$1951.70
+756,Allison,Jeff,13,6/15/2018,B,Vidoo,Montgomery,Alabama,36109,Park,Burges,English,334-680-5643,$1902.54
+757,Ruthy,Thompkins,17,11/12/2007,F,Quatz,Sparks,Nevada,89436,Fernande,Willavoys,Math,775-100-3846,$3860.32
+758,Sheilah,Ivers,11,6/18/2014,A,Photojam,Gainesville,Georgia,30506,Marinna,Threadgill,Science,678-980-9384,$1975.24
+759,Otis,Farington,13,10/5/2012,D,Tambee,Denton,Texas,76205,Gene,Harfoot,Math,940-328-8618,$3222.86
+760,Cynthea,Klosser,9,8/15/2011,E,Centimia,Nashville,Tennessee,37210,Sharon,Forst,English,615-996-5627,$4126.15
+761,Melania,Hebdon,11,12/7/2015,D,Tanoodle,Saint Paul,Minnesota,55166,Denny,Wrathmall,English,651-729-6558,$1989.04
+762,Yevette,Davenhall,10,1/6/2008,B,Voonyx,Washington,District of Columbia,20268,Renault,Keysel,History,202-495-3332,$3966.01
+763,Xena,Couldwell,11,7/22/2007,A,Wikibox,Duluth,Minnesota,55811,Mallissa,Spicer,English,218-687-8786,$2759.91
+764,Reube,Etherington,11,1/19/2011,A,Meemm,Orlando,Florida,32825,Ardyth,Amorts,Math,407-124-2974,$4545.47
+765,Mendel,Klimas,11,7/10/2009,B,Trudoo,Huntington Beach,California,92648,Nerta,Farlam,History,714-894-7518,$3710.47
+766,Cynthea,Mabe,8,7/18/2010,B,Thoughtsphere,Roanoke,Virginia,24029,Dorothea,Chape,English,540-647-0385,$3544.46
+767,Jobey,Ratcliff,14,7/11/2008,F,Npath,Decatur,Illinois,62525,Thelma,Berth,History,217-765-2191,$1568.22
+768,Grace,Rowatt,15,12/18/2016,C,Kimia,Escondido,California,92030,Theresita,Cisland,Math,760-962-5454,$1262.20
+769,Ninetta,Jirieck,17,6/3/2010,A,Tambee,Charlotte,North Carolina,28215,Scarface,Sessuns,Science,704-922-5726,$1338.59
+770,Yehudi,Callen,15,2/15/2013,C,Chatterbridge,Lexington,Kentucky,40576,Wandie,Nerval,History,859-213-8185,$1456.16
+771,Mela,Beddo,8,5/16/2016,F,Edgetag,Norman,Oklahoma,73071,Dulci,Lipp,Math,405-248-4025,$4828.83
+772,Cherice,Wooton,11,7/6/2010,D,Abatz,Norfolk,Virginia,23504,Jackson,Ludwig,Math,757-574-6665,$4367.79
+773,Connor,Tovey,7,9/17/2013,B,Gigashots,Pensacola,Florida,32595,Enrique,Dytham,Art,850-205-0393,$2000.32
+774,Adara,Vannoort,13,8/16/2017,F,Viva,Atlanta,Georgia,30392,Micky,Brunnstein,Math,404-879-7745,$4300.26
+775,Misha,Haines,12,8/25/2016,E,Roombo,Inglewood,California,90398,Cora,Buntain,Math,310-390-1918,$4784.00
+776,Benoite,Marie,17,7/27/2015,E,Photobug,Gainesville,Georgia,30506,Herby,Fennell,Science,678-259-7261,$3237.97
+777,Dolph,Rankcom,6,9/18/2012,C,Mymm,Charlotte,North Carolina,28225,Lonni,Staddart,Science,704-575-9422,$1016.02
+778,Tillie,Feldstein,11,2/4/2008,D,Twitterlist,San Antonio,Texas,78245,Paul,Kuschek,English,210-281-5618,$4013.71
+779,Field,Looney,18,12/6/2012,E,Flashset,Roanoke,Virginia,24040,Jandy,Iorizzo,Art,540-581-0977,$2335.41
+780,Norrie,Popov,7,8/17/2009,D,Dabfeed,Lexington,Kentucky,40576,Cherise,Bewley,English,859-209-5446,$2562.56
+781,Sigrid,Cardenas,9,3/9/2010,B,Trupe,Beaufort,South Carolina,29905,Cullen,Stack,Art,843-434-5462,$3927.59
+782,Heida,Barsham,14,10/10/2014,A,Youtags,El Paso,Texas,88514,Dominik,Fentem,Math,915-592-2226,$3762.87
+783,Wayne,Neaverson,18,1/23/2009,E,Demivee,Washington,District of Columbia,20430,Candi,Whorall,Science,202-661-5317,$1276.58
+784,Guillemette,Croizier,16,8/30/2018,A,Topicstorm,Houston,Texas,77055,Brent,Innerstone,Math,713-837-8454,$4251.81
+785,Corissa,Crudgington,18,4/21/2014,E,Oyondu,Corpus Christi,Texas,78410,Marj,Loweth,Math,361-172-6870,$1944.03
+786,Redd,Fairnington,14,12/30/2012,E,Trunyx,Washington,District of Columbia,20425,Frannie,Nurny,Math,202-515-0033,$2239.04
+787,Lainey,Whelpdale,16,1/20/2008,A,DabZ,Phoenix,Arizona,85025,Mike,Cosans,Science,928-871-3399,$4071.01
+788,Carney,Coggings,18,5/11/2018,C,Eazzy,Sandy,Utah,84093,Lyndsie,Helix,Art,801-996-7933,$1754.80
+789,Vivianne,Glynne,10,6/23/2011,E,Demimbu,Des Moines,Iowa,50315,Hali,Monteith,Science,515-334-1201,$2760.55
+790,Chaddie,Shear,9,2/14/2010,B,Feedbug,Washington,District of Columbia,20392,Amara,Slarke,English,202-388-3939,$1843.92
+791,Hildagarde,Gisbye,16,10/3/2010,A,Gabtype,Fort Worth,Texas,76115,Angela,Greeves,Science,817-163-8309,$4912.47
+792,Maurise,Wylam,10,3/20/2008,F,Agimba,Chicago,Illinois,60636,Alena,Woolerton,Science,312-728-8803,$3074.70
+793,Jinny,McIndoe,14,8/28/2012,F,Yodel,Evansville,Indiana,47725,Drusilla,Lafee,History,812-839-4467,$2853.06
+794,Eleen,Mawford,14,11/4/2007,C,Gigaclub,Jackson,Tennessee,38308,Darbee,Hadfield,Science,731-975-6209,$2007.53
+795,Melisse,Seyler,7,8/12/2009,F,Zoomdog,Cleveland,Ohio,44125,Anica,Abramowitz,Science,440-393-9057,$1548.48
+796,Arlinda,Polino,17,2/8/2016,D,Skaboo,Great Neck,New York,11024,Faunie,Trussler,Art,516-793-9004,$2513.29
+797,Mildrid,Barriball,15,11/7/2014,D,Rooxo,Corona,California,92883,Kris,Baugham,English,626-978-5014,$3826.72
+798,Olenolin,Lindgren,17,12/28/2010,C,Linktype,Savannah,Georgia,31405,Stan,Cauthra,History,912-554-1881,$1899.42
+799,Hartley,Khomin,15,4/5/2016,E,Dabtype,El Paso,Texas,79905,Charlotta,Van der Krui,Science,915-866-0395,$2088.11
+800,Adelice,Maric,18,9/7/2014,B,Gabspot,Cleveland,Ohio,44111,Emmit,Andri,Math,216-542-3882,$3978.72
+801,Anne,D'Ambrosi,6,1/28/2008,F,Bluejam,Roanoke,Virginia,24014,Malissia,Craig,English,540-496-1389,$3626.19
+802,Carmela,Franke,11,2/14/2010,D,Kwideo,Waco,Texas,76705,Glen,Clinkard,English,254-841-6296,$1088.23
+803,Hermy,Dimitru,18,12/11/2007,C,DabZ,Grand Forks,North Dakota,58207,Lanie,Folker,Science,701-856-4446,$2826.08
+804,Joly,Woolmore,7,3/30/2010,A,Skalith,Santa Barbara,California,93111,Rube,Stow,Art,702-883-2921,$2970.53
+805,Abran,Meneely,6,10/20/2006,F,Jabberstorm,Saint Louis,Missouri,63143,Abbott,Styles,History,314-238-0237,$4408.97
+806,Christin,Margrie,11,2/2/2011,C,Voonix,Saint Louis,Missouri,63196,Stewart,Revett,English,314-621-6791,$4057.82
+807,Jimmy,Jaques,10,9/15/2014,E,Mybuzz,Jamaica,New York,11470,Elfrieda,Detheridge,Art,718-228-8128,$2638.76
+808,Devan,Row,6,12/7/2009,F,Jaxworks,Brockton,Massachusetts,2305,Connie,Lodeke,History,508-897-5436,$2520.96
+809,Weber,Porteous,6,9/17/2011,C,Eamia,Macon,Georgia,31210,Kip,Pendergast,Science,478-450-1248,$2762.07
+810,Suzy,Parcells,18,4/15/2014,A,Feedbug,Laredo,Texas,78044,Olive,Cawsey,Art,956-206-6727,$1316.80
+811,Bibbie,Asmus,13,7/14/2008,A,Topicblab,Fort Lauderdale,Florida,33330,Cleve,Dougal,History,954-958-0061,$3160.31
+812,Marylinda,Mitchall,15,8/22/2013,E,Tagopia,Birmingham,Alabama,35242,Tybi,Silbert,Science,205-155-4414,$2361.01
+813,Horatia,Siss,8,9/11/2012,B,Kazu,Orlando,Florida,32891,Pris,Turneaux,Math,407-399-7240,$1721.74
+814,Tine,Beggan,13,5/27/2014,F,Thoughtsphere,Flushing,New York,11355,Caresa,Bondesen,English,718-714-9405,$4131.78
+815,Karlee,Conichie,11,10/25/2011,E,Thoughtstorm,Albuquerque,New Mexico,87195,Merilyn,Ruvel,Math,505-141-9301,$1305.62
+816,Dolorita,Erswell,10,8/15/2018,D,Vitz,New Orleans,Louisiana,70116,Marin,Whitrod,Math,504-997-0959,$4090.23
+817,Martguerita,Alldritt,15,6/6/2010,F,Browsedrive,New Haven,Connecticut,6505,Maybelle,McEvon,History,203-727-7700,$2555.06
+818,Penn,Dolle,15,6/8/2008,B,Voonder,Greensboro,North Carolina,27409,Sonny,Yggo,English,336-624-8879,$3768.08
+819,Paddy,Henriques,13,9/25/2015,E,Skyba,Colorado Springs,Colorado,80910,Brantley,Pescud,English,719-296-8697,$1112.67
+820,Marne,McKean,14,5/26/2018,A,Riffpath,Van Nuys,California,91411,Gunar,Alecock,Science,626-722-4125,$2123.27
+821,Daffi,Bowart,15,7/12/2015,E,Leexo,Washington,District of Columbia,20029,Ann,Bachanski,Math,202-241-5226,$1799.24
+822,Lissy,Clardge,18,2/23/2013,D,Skinder,Hattiesburg,Mississippi,39404,Lezlie,Aloshkin,History,601-240-0161,$1164.31
+823,Ettore,Euesden,12,11/22/2007,D,Thoughtbeat,San Antonio,Texas,78210,Thaxter,Coase,Art,210-127-0681,$2141.39
+824,Brooks,Rolfo,17,7/6/2015,F,Midel,Kansas City,Kansas,66160,Gwenora,Durnin,Science,913-481-2285,$4169.68
+825,Lissie,Stuchburie,13,1/9/2017,A,Photobean,Boston,Massachusetts,2216,Kory,Gladwin,History,617-552-4784,$4699.89
+826,Bertina,Root,11,5/28/2010,D,Eabox,Portsmouth,Virginia,23705,Luce,Plait,Math,757-554-5022,$1017.26
+827,Petr,Gillies,16,2/19/2017,C,Oozz,Odessa,Texas,79764,Mozelle,Shevels,English,432-984-6968,$2525.07
+828,Ronni,Clemmett,12,12/7/2008,F,Shuffletag,Houston,Texas,77020,Bev,Ashburner,Science,281-212-1611,$4724.59
+829,Laurice,Crocetti,6,9/27/2011,D,Gigashots,Fort Lauderdale,Florida,33320,Grayce,Marrington,Art,754-281-8029,$4034.15
+830,Bettye,Ayris,16,12/12/2016,B,Mydo,Arlington,Texas,76011,Isidro,Rosling,English,817-758-2496,$4664.56
+831,Lancelot,Whellams,8,2/22/2017,A,Quire,Charlotte,North Carolina,28256,Wes,Laverick,Science,704-919-4308,$2329.03
+832,Ludvig,Isbell,13,11/6/2018,B,Browseblab,Crawfordsville,Indiana,47937,Almeria,Broadfield,History,765-560-9517,$1361.08
+833,Marcos,Urling,13,3/5/2012,B,Rhyzio,Phoenix,Arizona,85035,Iris,Offin,Art,602-609-2208,$4288.62
+834,Eugen,Fantham,10,11/14/2011,B,Rhybox,Louisville,Kentucky,40225,Mari,Luppitt,Math,502-488-9911,$3832.51
+835,Heinrik,Lafaye,15,11/2/2013,F,Tagcat,Bradenton,Florida,34205,Sianna,Cartmael,History,941-834-3649,$3340.67
+836,Burk,Humble,15,6/30/2015,D,Buzzbean,Madison,Wisconsin,53779,Renard,Evennett,Math,608-696-5274,$2873.56
+837,Kaspar,Dymott,16,12/1/2011,A,Quinu,Long Beach,California,90805,Hetty,Cleve,History,310-154-2847,$4524.81
+838,Anatol,Maslen,11,8/8/2013,B,Yodel,Baton Rouge,Louisiana,70815,Huntlee,Lutwidge,Science,225-190-1764,$3587.68
+839,Regine,Kesteven,9,8/28/2011,C,Quatz,Columbus,Ohio,43231,Brianna,Frontczak,History,614-967-5752,$2229.59
+840,Nell,De Mattei,12,10/10/2008,E,Rhynoodle,Edmond,Oklahoma,73034,Alethea,Rylstone,English,405-468-9693,$2148.08
+841,Joleen,Parlor,6,5/27/2010,C,Topicblab,Seattle,Washington,98158,Brocky,Heisman,English,360-859-1794,$2888.52
+842,Melli,MacCosty,13,11/23/2011,C,Jamia,San Antonio,Texas,78296,Bettine,Brindley,History,210-765-0527,$2159.18
+843,Margeaux,Matresse,12,9/7/2013,D,Topiczoom,Orange,California,92862,Leann,Darlison,Science,714-165-0076,$3486.06
+844,Ulla,Wenderott,15,9/5/2007,F,Gabspot,Chicago,Illinois,60641,Stefa,Orritt,Art,773-492-9000,$3039.92
+845,Wolfie,Giannotti,15,5/25/2008,D,Tagopia,Miami,Florida,33233,Zerk,Sellens,Art,786-192-1045,$1603.43
+846,Adria,Bulmer,11,10/29/2017,A,Skinix,Boston,Massachusetts,2104,Gawen,Simmens,History,318-694-2340,$1940.39
+847,Heloise,Stirtle,11,7/31/2009,C,Dabjam,Topeka,Kansas,66622,Sherilyn,Roller,Math,785-605-4781,$2230.07
+848,Bruis,Ferneley,8,3/25/2010,F,Shuffledrive,Washington,District of Columbia,20078,Tannie,Beverley,Math,202-552-5465,$2628.53
+849,Case,Fluin,7,2/13/2018,E,Oyonder,Pueblo,Colorado,81015,Livia,Yukhnov,English,719-567-7823,$4271.32
+850,Vivi,Snalom,14,4/12/2008,D,Lazz,Tempe,Arizona,85284,Hanna,Kedslie,History,480-252-3907,$4449.05
+851,Brunhilda,McDade,18,3/28/2014,E,Riffwire,Memphis,Tennessee,38168,Kelsey,Puleque,English,901-790-1588,$1760.55
+852,Stephanus,Stoacley,15,10/7/2018,A,Avavee,Philadelphia,Pennsylvania,19151,Sara,Wort,Math,215-739-5452,$2938.78
+853,Cordell,Addams,17,10/22/2017,D,Rooxo,Washington,District of Columbia,20067,Jessalyn,Simioni,Math,202-372-9827,$4540.31
+854,Rodger,Hoble,17,6/3/2008,E,Skynoodle,Amarillo,Texas,79118,Winni,Girodon,Math,806-665-7785,$1834.60
+855,Lulita,Poulsom,15,5/27/2008,D,Edgeclub,Springfield,Ohio,45505,Frederique,Jasper,Science,937-611-9978,$3927.19
+856,Tracy,Chamley,14,8/6/2016,C,Brainsphere,Florence,South Carolina,29505,Louise,Bootell,Art,843-567-9274,$1508.60
+857,Stanly,Jannasch,11,5/3/2010,A,Quimba,Houston,Texas,77005,Caralie,Braddick,Art,214-565-8604,$1118.73
+858,Gawen,Scheu,14,5/16/2008,F,Jaxbean,Conroe,Texas,77305,Wendeline,Wilden,English,936-109-4464,$2234.31
+859,Vince,Mayou,7,1/20/2006,F,Browsecat,Atlanta,Georgia,30306,Brittan,Sweetman,Art,404-755-9945,$3440.58
+860,Chicky,Pacher,18,11/6/2007,E,Wordify,Marietta,Georgia,30061,Cherice,MacCrossan,Art,770-741-6305,$2838.90
+861,Ilysa,Avramovitz,18,2/15/2009,C,Realmix,Fort Lauderdale,Florida,33355,Fernanda,Billett,English,754-301-3399,$2174.07
+862,Mirabelle,Stennard,13,10/25/2014,D,Browsetype,Denver,Colorado,80241,Jake,Terbrug,Science,303-740-5188,$4984.18
+863,Neila,Kauble,17,12/5/2014,A,Buzzbean,Dallas,Texas,75277,Konrad,Dragonette,Science,214-432-0089,$1263.52
+864,Johann,McGhee,8,7/7/2017,B,Tagcat,Huntington,West Virginia,25709,Starlin,Coviello,Science,304-402-8841,$4878.40
+865,Frederique,Baroux,13,2/4/2014,C,Roombo,San Antonio,Texas,78278,Christye,Clerke,History,210-989-5904,$2836.28
+866,Everard,Kilgrew,15,2/26/2007,E,Thoughtbridge,Montgomery,Alabama,36195,Jennifer,Abernethy,Science,334-934-4139,$4656.56
+867,Roscoe,Tattersill,7,7/30/2007,C,Katz,Roanoke,Virginia,24020,Meade,Muck,Art,540-666-9130,$4867.61
+868,Alyssa,Beecheno,18,2/23/2006,F,Thoughtbridge,Amarillo,Texas,79188,Romain,Chicotti,History,806-984-8795,$2196.63
+869,Theresina,McHarry,10,3/31/2007,D,Plajo,Dallas,Texas,75379,Eadie,Dewey,Science,214-239-7185,$1235.34
+870,Latisha,Gimenez,14,4/20/2017,F,Quatz,Seattle,Washington,98175,Caryn,Swadlinge,English,206-445-2283,$2757.80
+871,Melly,Bealing,14,11/23/2010,E,Agimba,Richmond,Virginia,23285,Bard,Birkmyre,History,804-817-2741,$1568.07
+872,Waylon,Dohmann,15,5/29/2016,F,Dynabox,Tyler,Texas,75799,Jerald,Vescovini,Art,903-437-9689,$4861.05
+873,Ricki,Marciskewski,11,1/23/2011,F,Edgewire,Houston,Texas,77223,Harp,Demogeot,Math,713-942-1696,$1817.30
+874,Liz,Vedeniktov,6,11/29/2014,A,InnoZ,Wichita,Kansas,67260,Sherman,Fendlen,Science,316-279-9130,$2431.64
+875,Drugi,Tayloe,16,10/19/2009,F,Demivee,Louisville,Kentucky,40250,Mirna,Moscon,English,502-801-9629,$4305.99
+876,Rozamond,Plaistowe,17,12/15/2006,B,Brainverse,Oklahoma City,Oklahoma,73104,Mavis,FitzGibbon,Math,405-237-6027,$4438.01
+877,Phelia,McBrady,11,11/2/2014,F,Gigabox,Newport News,Virginia,23605,Isidro,Brambill,History,757-523-5431,$1149.36
+878,Willetta,Vlahos,14,8/2/2006,F,Katz,Austin,Texas,78744,Nick,Boarder,English,512-338-5937,$4544.70
+879,Renate,Dyer,16,5/11/2018,A,Roodel,Norcross,Georgia,30092,Rudolph,Legg,Science,770-375-1038,$3844.87
+880,Lindsey,Leftwich,11,10/28/2018,D,Leenti,Lubbock,Texas,79491,Raymond,Chmiel,History,806-893-3721,$3821.42
+881,Cy,Solley,9,4/2/2009,F,Linkbuzz,Chicago,Illinois,60669,Inglebert,Dargavel,English,312-274-3375,$2791.80
+882,Elvyn,Roggeman,7,9/16/2016,E,Voonyx,Long Beach,California,90840,Reinold,Dady,Math,562-932-7052,$4911.33
+883,Barth,Middlewick,6,7/23/2015,F,Twimm,New Haven,Connecticut,6533,Ambur,Deveral,English,203-351-2919,$3909.12
+884,Roderick,Roeby,10,11/22/2009,B,Skyndu,Ogden,Utah,84409,Roselle,Sadat,English,801-354-0159,$1707.38
+885,Jessika,Gibbings,8,9/10/2010,D,Zoomcast,Fort Lauderdale,Florida,33320,Kalvin,McDowall,Science,754-573-0399,$3793.20
+886,Catlin,Griffin,11,11/1/2018,D,Feedfire,Little Rock,Arkansas,72204,Ralf,Zuanelli,English,501-205-9793,$3629.40
+887,Dolley,Hellwing,15,9/16/2008,A,Edgewire,Reading,Pennsylvania,19605,Obadias,Headly,History,484-319-1256,$1557.03
+888,Kamila,Schiersch,15,4/8/2006,F,Einti,Waterbury,Connecticut,6726,Alair,Golley,Math,203-673-8012,$1343.31
+889,Hartley,Passy,10,8/26/2013,D,LiveZ,Los Angeles,California,90065,Morten,Trevers,History,818-690-8859,$1487.34
+890,Anne-marie,Wilshaw,14,5/13/2010,A,Photolist,Saint Cloud,Minnesota,56398,Yvon,Bilyard,Science,320-100-4466,$4451.57
+891,Debee,Waryk,8,1/18/2013,B,Camido,Texarkana,Texas,75507,Luca,Lombardo,History,903-653-4126,$3860.79
+892,Claus,Gobbet,13,4/15/2007,C,Livefish,Seattle,Washington,98121,Jozef,Glennie,Art,253-422-8391,$2708.46
+893,Bertine,Winchcum,17,9/13/2010,C,Wikivu,Chicago,Illinois,60641,Bridgette,Kempstone,Math,773-488-1382,$3858.24
+894,Merrel,Wakelam,13,7/15/2011,C,Linklinks,Athens,Georgia,30610,Valene,Chapling,Math,706-456-4645,$1371.68
+895,Cassey,Maddrah,10,5/9/2011,B,Skyvu,Pittsburgh,Pennsylvania,15215,Betti,Clackers,Math,412-295-8429,$3666.69
+896,Leeann,Aumerle,11,10/3/2012,D,Skyndu,Cumming,Georgia,30130,Spike,Moakler,Math,706-778-3945,$4595.72
+897,Claudius,Wearden,8,1/16/2007,D,Avaveo,Columbia,South Carolina,29225,Dulciana,Fountian,History,803-332-5029,$4642.08
+898,Helene,Goulding,17,10/24/2013,C,Twitterwire,Spokane,Washington,99210,Gnni,Roubeix,History,509-352-0991,$2938.36
+899,Easter,Leneve,13,3/17/2018,A,Tagfeed,Fort Smith,Arkansas,72916,Marta,Puttock,Science,479-812-6136,$2495.63
+900,Bambi,Jennison,13,9/15/2018,A,Meezzy,Lawrenceville,Georgia,30045,Axel,Dominique,Math,678-113-1071,$4933.58
+901,Floyd,Castan,11,8/11/2012,A,Lazzy,Mobile,Alabama,36670,Vickie,Willerson,Science,251-377-7774,$1437.85
+902,Charmane,O'Flaverty,6,7/7/2018,A,Gevee,Bronx,New York,10459,Borden,Bowdery,Art,917-123-8171,$3228.33
+903,Greggory,Vitet,16,11/24/2007,F,Topicshots,Houston,Texas,77299,Kally,Cummins,Science,713-608-0499,$2933.50
+904,Prudence,Domerq,10,4/15/2012,E,Vitz,Monroe,Louisiana,71208,Edythe,Sawden,English,318-802-5350,$1786.85
+905,Jessy,Hampstead,13,6/16/2016,F,Jaxspan,Denver,Colorado,80262,Sal,Rugiero,History,303-355-3264,$1777.61
+906,Jewell,Faustian,12,12/25/2013,E,Fadeo,Montgomery,Alabama,36134,Rebecka,Clissett,Science,334-428-2764,$4272.75
+907,Marcelle,Poynton,15,6/27/2010,B,Cogilith,Wilmington,Delaware,19805,Arlyne,Coan,Math,302-908-1386,$3102.75
+908,Giacopo,Hazart,16,4/22/2008,D,Fliptune,Norfolk,Virginia,23504,Kimberly,Bassill,History,757-920-8301,$1502.11
+909,Rosemonde,Kettle,15,2/17/2012,B,Gabspot,Omaha,Nebraska,68117,Pepita,Gerritzen,Art,402-303-8540,$1188.43
+910,Miles,Tyght,16,6/9/2014,F,Yombu,Minneapolis,Minnesota,55417,Steffie,Gertray,Math,651-815-5682,$1819.62
+911,Gretchen,Goodyer,11,12/10/2009,C,Shuffledrive,San Diego,California,92110,Estel,Kulis,History,619-403-7259,$2041.86
+912,Shannon,Harrhy,11,8/31/2008,E,Jabbersphere,Gaithersburg,Maryland,20883,Valencia,Drover,Math,240-400-1310,$3756.46
+913,Nanni,Riste,17,12/19/2012,A,Cogidoo,Great Neck,New York,11024,Enid,Paolino,History,516-425-6582,$1932.01
+914,Arny,Laverick,7,9/27/2015,D,Topdrive,Pasadena,California,91131,Idalia,Temlett,Math,626-351-8441,$3070.05
+915,Cristiano,Yerrington,13,12/6/2014,F,Rhyzio,Tucson,Arizona,85725,Elden,Fitzsymonds,English,520-921-6629,$3165.58
+916,Quintin,Tighe,10,10/13/2010,C,Jabbersphere,Clearwater,Florida,33763,Guido,Lundberg,History,727-852-1511,$2217.38
+917,Simon,Brunicke,15,3/28/2011,E,Zoomdog,Portland,Oregon,97240,Neel,Clough,History,971-120-7435,$2970.46
+918,Kim,Oels,17,7/20/2013,D,Cogidoo,White Plains,New York,10606,Robinson,Mealing,English,845-855-8663,$4094.65
+919,Jasper,Enser,10,12/3/2011,A,Devcast,Schenectady,New York,12325,Jaime,Hinken,History,518-402-3824,$3831.60
+920,Phineas,Tootell,10,4/28/2013,C,Tazzy,San Jose,California,95150,Orly,Rozsa,History,408-214-3257,$4558.90
+921,Ansel,Bener,9,9/4/2018,B,Browsedrive,Reno,Nevada,89595,Joline,Kembley,English,775-268-8049,$2598.84
+922,Vincents,Burbury,11,1/5/2018,B,Zava,Chattanooga,Tennessee,37416,Nefen,Rouchy,Science,423-696-5947,$3974.66
+923,Felizio,Koop,6,4/11/2012,F,Photojam,Buffalo,New York,14263,Sergent,Craw,Science,716-807-3380,$3008.27
+924,Iolande,Wardhough,14,6/6/2016,F,Devpulse,Sarasota,Florida,34233,Kimbell,Gagg,History,941-741-0150,$3739.03
+925,Ugo,Glewe,16,9/9/2011,E,Shufflester,Miami,Florida,33142,Wilmar,Hillitt,Math,305-641-8516,$1345.10
+926,Earl,Vear,6,1/13/2007,D,Brainlounge,Evansville,Indiana,47737,Leisha,Woodrough,English,812-379-1000,$1029.01
+927,Tiphani,Groocock,8,6/30/2010,F,Aimbu,San Diego,California,92191,Clyde,Purdom,Science,619-617-9197,$2451.37
+928,Odie,Croal,9,1/31/2010,A,Lazz,Bronx,New York,10469,Tiena,Flaverty,English,347-466-4080,$2706.96
+929,Titus,Bullerwell,8,8/3/2007,D,Mycat,Sterling,Virginia,20167,Jarret,Ledstone,Math,571-829-4425,$3154.64
+930,Daryl,Damerell,18,12/26/2013,E,Wikizz,Atlanta,Georgia,30328,Malcolm,Geke,Art,404-994-2155,$1092.67
+931,Caryl,Chiddy,17,2/3/2006,F,Oloo,Tampa,Florida,33680,Hamlin,Joyson,History,813-102-3527,$4017.59
+932,Kathye,Smalecombe,14,8/7/2007,D,Topicblab,Baltimore,Maryland,21275,Josiah,Edgecombe,English,410-374-9615,$1718.17
+933,Noach,Cullinan,18,1/5/2016,F,Zoomzone,El Paso,Texas,79916,Leonerd,Riepel,English,915-522-0894,$2416.42
+934,Reeva,Gierke,9,10/3/2009,A,Latz,Birmingham,Alabama,35210,Addy,Caldes,Art,205-371-5738,$4910.83
+935,Ardath,Demann,16,7/25/2008,F,Tagpad,Los Angeles,California,90015,Oriana,Lamming,History,818-705-0286,$3376.23
+936,Tracey,Colles,7,8/10/2007,C,Kayveo,Van Nuys,California,91411,Nariko,Killner,History,818-295-7990,$3564.73
+937,Conni,Charnock,15,4/28/2012,E,Jaxbean,Miami,Florida,33158,Olivie,Dermott,Art,786-438-0106,$4664.03
+938,Ingram,Masseo,8,8/23/2016,E,Dynazzy,Charleston,South Carolina,29424,Lian,Cleaton,Art,843-960-4903,$4316.46
+939,Marianne,Dewan,12,8/23/2007,F,Bubblebox,Ventura,California,93005,Adriano,Crowson,Math,805-136-0952,$1351.86
+940,Joseito,O'Feeny,15,4/30/2007,E,Thoughtstorm,Syracuse,New York,13210,Marla,Piddle,Science,315-893-3906,$2951.49
+941,Neall,Lawry,6,8/10/2010,B,Skinte,Jeffersonville,Indiana,47134,Rowney,Addyman,English,812-479-0473,$2685.79
+942,Hiram,Diggar,9,7/18/2014,A,Skinte,Tucson,Arizona,85715,Myrvyn,Exon,English,520-213-5614,$3811.81
+943,Bernette,Schubbert,18,8/28/2007,B,Voonte,Florence,South Carolina,29505,Beryl,Lippitt,Science,843-800-5306,$2437.61
+944,Bryan,Landrick,13,6/29/2015,C,Mudo,El Paso,Texas,88563,Denver,Haskins,Math,915-317-0872,$2700.89
+945,Tamera,Weond,9,2/18/2007,B,Topdrive,Columbus,Ohio,43215,Terza,Orchard,English,513-417-3239,$3178.59
+946,Carmelina,Bissiker,17,10/28/2009,A,Centidel,Houston,Texas,77206,Samuel,Goult,Science,713-816-9297,$2594.02
+947,Alistair,Kinnaird,17,5/11/2017,F,Jabbertype,Oklahoma City,Oklahoma,73197,Douglass,O' Dooley,Science,405-775-7596,$1165.71
+948,Torey,Triplet,9,7/17/2015,C,Yodoo,Richmond,Virginia,23225,Celeste,Wilsher,Science,804-824-5748,$4639.74
+949,Johann,Nekrews,18,7/20/2006,C,Kazio,Orlando,Florida,32808,Whit,Derisly,Math,321-405-5264,$1792.60
+950,Darcie,Monte,11,12/18/2007,B,Babbleset,Houston,Texas,77005,Rhodia,Bullar,History,832-940-7836,$2996.36
+951,Alaster,McRory,9,2/1/2017,D,Janyx,Jackson,Mississippi,39204,Blinni,Gripton,Math,601-482-7922,$1765.98
+952,Darill,Fann,8,5/30/2018,E,Trilia,Wichita,Kansas,67215,Madalyn,McClaughlin,English,316-370-9894,$1516.00
+953,Almire,Troppmann,14,1/29/2007,A,Feedfire,Buffalo,New York,14210,Marcelo,Dowe,English,716-304-2686,$2698.11
+954,Gerald,Scholey,14,12/27/2015,F,Cogilith,Knoxville,Tennessee,37919,Bonnee,Dearlove,Math,865-408-8081,$4501.22
+955,Christabella,Sussex,7,2/26/2016,B,Twitterwire,Fresno,California,93709,Hephzibah,Bickerton,Science,559-544-4817,$2433.29
+956,Valida,Moorman,12,6/11/2015,C,Yambee,Albany,New York,12255,Raven,Vickors,Art,518-730-1945,$1636.49
+957,Nicholas,Creamer,15,12/25/2013,B,Devify,Stamford,Connecticut,6922,Bernelle,Revett,English,203-708-0531,$3723.86
+958,Sianna,Ridings,11,7/30/2012,F,Twimm,Dearborn,Michigan,48126,Klemens,Baff,History,734-521-5536,$4207.81
+959,Ainsley,Mandal,15,1/8/2006,D,Skibox,Las Vegas,Nevada,89120,Vallie,Bowery,Math,702-273-2358,$3176.43
+960,Niki,Haversham,11,2/2/2008,B,Lazzy,Elizabeth,New Jersey,7208,Julita,Beresfore,English,908-407-2561,$1747.09
+961,Annamarie,Denecamp,9,12/29/2007,A,Rhynoodle,Salt Lake City,Utah,84125,Hughie,Tarling,History,801-746-9371,$3374.25
+962,Faber,Sydenham,11,11/8/2013,E,Meeveo,Hampton,Virginia,23663,Matt,Corner,Art,804-602-5097,$4940.58
+963,Sayres,Trayford,16,5/13/2016,B,Yamia,Gainesville,Florida,32627,Giffy,Don,Art,352-181-7137,$1718.49
+964,Callean,Witnall,14,1/24/2017,A,Omba,Falls Church,Virginia,22047,Ricki,Sealand,Science,571-466-7252,$1748.32
+965,Cristina,Sparwell,7,1/29/2012,D,Oloo,Sacramento,California,95813,Shaun,Frisby,English,916-378-4345,$4138.87
+966,Jabez,Crottagh,13,7/23/2015,B,Zoombox,Metairie,Louisiana,70005,Oberon,Dunleavy,Math,504-339-7737,$2002.91
+967,Belicia,Wroughton,14,4/10/2014,E,Miboo,Torrance,California,90510,Shaina,Liddel,Math,818-139-9088,$2365.75
+968,Mord,Slocomb,16,1/25/2009,E,Blogpad,Anchorage,Alaska,99599,Rana,Walcar,Art,907-980-4868,$1716.80
+969,Leif,Roulston,7,6/28/2014,A,Wikizz,Aurora,Illinois,60505,Mickie,Agostini,Science,630-266-2031,$3941.73
+970,Andra,Sinclar,14,4/22/2010,A,Realpoint,New Orleans,Louisiana,70165,Darci,Squires,Art,504-281-7170,$4174.18
+971,Billie,Connal,11,11/19/2008,A,Dabshots,Fort Lauderdale,Florida,33310,Denny,Britner,Art,754-971-2193,$2178.96
+972,Catherine,Raulstone,6,2/8/2013,D,Skajo,New York City,New York,10155,Michel,Jarville,Art,917-868-8333,$4028.80
+973,Linnea,Urlich,12,6/23/2015,A,Tagtune,Raleigh,North Carolina,27626,Rodina,Burchett,History,919-814-0670,$1908.46
+974,Emmalyn,Archanbault,15,6/21/2018,F,Tavu,Rochester,New York,14646,Jethro,Curd,History,585-520-2291,$1313.87
+975,Nedda,Ferschke,6,11/30/2011,F,Eabox,Springfield,Missouri,65810,Malva,Filipczynski,Science,417-544-7098,$3536.36
+976,Sandra,MacAllester,7,8/17/2012,C,Zoomlounge,Albuquerque,New Mexico,87190,Isadora,Condict,Science,505-202-5206,$4835.28
+977,Kenna,Yatman,6,9/16/2015,E,Skyndu,Macon,Georgia,31210,Cathrine,Grigoli,Art,478-834-3175,$4186.00
+978,Kinna,Ingerman,14,6/21/2016,A,Livetube,Philadelphia,Pennsylvania,19136,Willamina,Brackenbury,History,267-739-3194,$1439.66
+979,Romeo,Danigel,8,11/27/2006,F,Mynte,Milwaukee,Wisconsin,53225,Shanda,Couvet,English,414-521-0792,$1816.61
+980,Brina,Hincham,14,9/19/2015,A,Babbleset,Boston,Massachusetts,2216,Priscella,Millar,Art,617-161-8573,$4785.97
+981,Eolande,Gibby,10,1/20/2009,D,Oyoyo,Littleton,Colorado,80161,Bidget,Moodie,English,303-918-9206,$1058.53
+982,Lynna,Leveridge,6,6/24/2011,E,Skinder,Fort Smith,Arkansas,72905,Kassey,Tittershill,History,479-851-1281,$4808.65
+983,Ambur,Korpolak,18,4/8/2008,B,Edgetag,Irvine,California,92612,Courtnay,Hetterich,Science,510-713-3628,$4561.68
+984,Remus,Pietz,16,6/4/2014,C,Yata,Charleston,West Virginia,25321,Sallyann,Gomby,Math,304-696-2695,$2325.80
+985,Trina,Paolone,8,5/3/2014,A,Camido,East Saint Louis,Illinois,62205,Rubetta,Wortley,Science,618-382-1255,$4628.83
+986,Renard,Ferenc,12,8/21/2009,D,Edgeclub,Seattle,Washington,98115,Mara,Yerson,English,206-992-6653,$2803.68
+987,Jerome,Went,14,4/8/2016,E,BlogXS,Arlington,Texas,76016,Karlan,Yegorov,Science,817-424-1838,$3200.73
+988,Brnaby,Heaseman,17,11/21/2017,E,Meedoo,Columbia,South Carolina,29240,Barbara-anne,Longhirst,Math,803-573-5455,$4531.68
+989,Amery,Foggarty,7,8/14/2017,D,Flashset,Fredericksburg,Virginia,22405,Ronnie,Targe,Science,540-352-4302,$4597.56
+990,Enrique,Pragnall,6,2/18/2007,A,Gigabox,Tacoma,Washington,98481,Barty,Brockman,English,253-860-9641,$2749.87
+991,Mariele,Wheelhouse,6,11/10/2017,B,Omba,Arlington,Texas,76096,Maxy,Tewnion,Art,214-311-9287,$3985.13
+992,Selia,Le Prevost,10,2/4/2016,F,Linktype,Clearwater,Florida,34615,Gilly,Taveriner,Art,727-386-9540,$4010.71
+993,Robbie,Lockery,13,2/29/2012,F,Realmix,Jacksonville,Florida,32209,Melonie,Pluvier,Science,904-309-0688,$2028.86
+994,Latia,Molloy,12,5/18/2008,A,Eabox,Minneapolis,Minnesota,55412,Fonzie,Bateup,Math,952-268-6359,$3339.59
+995,Isidoro,Glenton,9,7/22/2013,C,Wikido,Harrisburg,Pennsylvania,17140,Stacy,Moring,English,717-291-0437,$1499.97
+996,Winonah,Tuft,16,9/25/2013,F,LiveZ,North Little Rock,Arkansas,72199,Benji,Petric,Science,501-428-3447,$2230.46
+997,Minda,Vater,17,3/20/2010,B,Eidel,Houston,Texas,77245,Jan,Grattage,Math,713-356-8253,$3336.47
+998,Osbourn,Cater,15,5/28/2008,C,Edgepulse,Aurora,Illinois,60505,Ham,Verdy,English,331-878-3257,$3846.69
+999,Ernestine,Overpool,18,1/12/2017,F,Gabcube,Riverside,California,92513,Clare,Rickeard,Math,951-522-2297,$4613.96
+1000,Grannie,Betteridge,14,8/16/2017,F,Chatterbridge,Port Saint Lucie,Florida,34985,Selinda,Cohan,Science,772-105-5698,$3314.72
