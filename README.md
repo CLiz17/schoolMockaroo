@@ -46,10 +46,10 @@ CREATE ROLE liz WITH LOGIN PASSWORD 'password';
 Create a database
 
 ```bash
-sudo -u postgres createdb database_name
+sudo -u user_name createdb database_name
 
 # Example
-sudo -u postgres createdb schooldb
+sudo -u liz createdb schooldb
 ```
 
 ### Step 2: Login to Postgres Terminal
@@ -57,7 +57,7 @@ sudo -u postgres createdb schooldb
 Now, Login to the Postgres Terminal
 
 ```bash
-sudo -u postgres psql
+sudo -u user_name psql
 ```
 
 To view the database
@@ -75,10 +75,10 @@ To view the users
 To switch to the database
 
 ```bash
-sudo -u postgres psql -d your_database_name
+psql -U user_name -d your_database_name
 
 # Example
-sudo -u postgres psql -d schooldb
+psql -U liz -d schooldb
 ```
 
 ### Step 3: Create Tables in the Database
@@ -86,7 +86,7 @@ sudo -u postgres psql -d schooldb
 Refering the ER Diagram, create tables in the database created.
 
 ```bash
-CREATE TABLE students (
+CREATE TABLE student (
     id SERIAL PRIMARY KEY,
     first_name VARCHAR(50),
     last_name VARCHAR(50),
@@ -99,7 +99,7 @@ CREATE TABLE school (
     name VARCHAR(50),
     addr_city VARCHAR(50),
     addr_state VARCHAR(50),
-    addr_pin VARCHAR(10)
+    addr_pin INTEGER
 );
 
 CREATE TABLE faculty (
@@ -109,4 +109,12 @@ CREATE TABLE faculty (
     subject VARCHAR(50),
     phone_no VARCHAR(15)
 );
+```
+
+### Step 4: Add data to the tables
+
+COPY command can be used to import data into PostgreSQL
+
+```bash
+COPY students FROM '/home/liz/schoolMockaroo/student.csv' DELIMITER ',' CSV HEADER;
 ```
