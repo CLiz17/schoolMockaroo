@@ -124,3 +124,10 @@ COPY students FROM '/home/liz/schoolMockaroo/student.csv' DELIMITER ',' CSV HEAD
 
 Terminal:
 ![Student data](https://github.com/CLiz17/schoolMockaroo/assets/68838221/a5456366-add7-438b-b85f-887007455b2f)
+
+```bash
+COPY school FROM '/home/liz/schoolMockaroo/school.csv' DELIMITER ',' CSV HEADER;
+```
+
+Terminal:
+![school data](https://github.com/CLiz17/schoolMockaroo/assets/68838221/709a0bfa-e4dd-46ea-a4ff-8d9c214c71e3)
