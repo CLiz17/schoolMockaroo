@@ -1,2 +1,2 @@
-# schoolMockaroo.csv
-School management database from Mockaroo
+# schoolMockaroo
+School management Mockaroo database using PostgreSQL
