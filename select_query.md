@@ -1,4 +1,4 @@
-## Write a Select query with and without conditions.
+## Select query with and without conditions.
 
 Without conditions
 
@@ -19,3 +19,5 @@ SELECT * FROM table_name WHERE condition;
 #example
 SELECT * FROM student WHERE age<10;
 ```
+
+![Screenshot from 2024-03-03 05-50-54](https://github.com/CLiz17/schoolMockaroo/assets/68838221/eb4879f4-a9c3-4f17-8689-694f726ead52)
