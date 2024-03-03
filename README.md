@@ -110,9 +110,8 @@ CREATE TABLE faculty (
     phone_no VARCHAR(15)
 );
 ```
+![](https://github.com/CLiz17/schoolMockaroo/assets/68838221/e1098285-7a30-4c0c-9bf6-0f86bcd3c88b)
 
-Terminal:
-![Table schema creation](https://github.com/CLiz17/schoolMockaroo/assets/68838221/621ef9c6-7166-46bd-bb81-3a081146d048)
 
 ### Step 4: Add data to the tables
 
@@ -121,15 +120,11 @@ COPY command can be used to import data into PostgreSQL
 ```bash
 COPY students FROM '/home/liz/schoolMockaroo/student.csv' DELIMITER ',' CSV HEADER;
 ```
-
-Terminal:
 ![Student data](https://github.com/CLiz17/schoolMockaroo/assets/68838221/a5456366-add7-438b-b85f-887007455b2f)
 
 ```bash
 COPY school FROM '/home/liz/schoolMockaroo/school.csv' DELIMITER ',' CSV HEADER;
 ```
-
-Terminal:
 ![school data](https://github.com/CLiz17/schoolMockaroo/assets/68838221/709a0bfa-e4dd-46ea-a4ff-8d9c214c71e3)
 
 ```bash
