@@ -120,16 +120,14 @@ COPY command can be used to import data into PostgreSQL
 ```bash
 COPY students FROM '/home/liz/schoolMockaroo/student.csv' DELIMITER ',' CSV HEADER;
 ```
-![Student data](https://github.com/CLiz17/schoolMockaroo/assets/68838221/a5456366-add7-438b-b85f-887007455b2f)
+![](https://github.com/CLiz17/schoolMockaroo/assets/68838221/45ee32db-5b58-4a58-bd6a-afa0406e9770)
 
 ```bash
 COPY school FROM '/home/liz/schoolMockaroo/school.csv' DELIMITER ',' CSV HEADER;
 ```
-![school data](https://github.com/CLiz17/schoolMockaroo/assets/68838221/709a0bfa-e4dd-46ea-a4ff-8d9c214c71e3)
+![](https://github.com/CLiz17/schoolMockaroo/assets/68838221/d16e5fa7-f8ae-4f13-a0c1-2396883cf33f)
 
 ```bash
 COPY faculty FROM '/home/liz/schoolMockaroo/faculty.csv' DELIMITER ',' CSV HEADER;
 ```
-
-Terminal:
-![faculty data](https://github.com/CLiz17/schoolMockaroo/assets/68838221/12a0f17a-b92c-4e33-bf55-5d1ec4970711)
+![](https://github.com/CLiz17/schoolMockaroo/assets/68838221/36e28a37-2a3b-4f89-897b-d779ddff9e5f)
