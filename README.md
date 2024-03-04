@@ -10,7 +10,7 @@ SchoolMockaroo is a mock database project aimed at simulating a school managemen
 
 ## ER Diagram
 
-<img width="500" alt="ER diagram for School Management" src="https://github.com/CLiz17/schoolMockaroo/assets/68838221/18c16170-9018-4653-b7b3-1ebf49cc0e67">
+<img width="500" alt="ER diagram for School Management" src="https://github.com/CLiz17/schoolMockaroo/assets/68838221/a3191a48-9f4d-44be-94af-74119ebf21ce">
 
 ## Steps
 
