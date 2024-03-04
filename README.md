@@ -9,8 +9,7 @@ SchoolMockaroo is a mock database project aimed at simulating a school managemen
 - **PostgreSQL**: The database management system used for this project is PostgreSQL, ensuring compatibility and reliability.
 
 ## ER Diagram
-
-<img width="500" alt="ER diagram for School Management" src="https://github.com/CLiz17/schoolMockaroo/assets/68838221/a3191a48-9f4d-44be-94af-74119ebf21ce">
+<img width="500" alt="ER diagram for School Management" src="https://github.com/CLiz17/schoolMockaroo/assets/68838221/9782b08f-4cf6-4b4c-bb41-42f0b593ae47">
 
 ## Steps
 
