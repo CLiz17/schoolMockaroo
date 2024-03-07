@@ -1,6 +1,6 @@
-# SchoolMockaroo
+# SchoolDB using Mockaroo
 
-SchoolMockaroo is a mock database project aimed at simulating a school management system using PostgreSQL. It provides a sample database schema and data generated with Mockaroo testing purposes.
+School Mockaroo is a mock database project aimed at simulating a school management system using PostgreSQL. It provides a sample database schema and data generated with Mockaroo testing purposes.
 
 ## Features
 
